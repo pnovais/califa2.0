@@ -1,0 +1,3 @@
+# RETOMANDO MINHAS ANÁLISES 
+Como a primeira abordagem, com 4 populaçes estelares, não se mostrou frutífera, iremos retomar as análises do zero... 
+Outra abordagem, mesmos dados.
