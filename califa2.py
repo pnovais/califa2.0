@@ -46,11 +46,48 @@ class bcolors:
     YELLOWs = '\033[33m'
 
 
-#definindo a classe que ira ler as imagens fits
+#definindo a funcao que ira ler as imagens fits
 def get_image(f_sdss):
     img = f_sdss[0].data
 #    sky = f_sdss[2].data
     return img
+
+def C(df,cx,cy):
+    df['raio'] = np.sqrt((df['x'] - cx)**2 + (df['y'] - cy)**2)
+    a=1
+    return a
+
+#definindo uma funcao para ordenar a propridade de interesse
+#dividi-lo em bins de igual tamanho e calcular alguns parametros
+def Z(df0,ordem):
+    df_Z = pd.DataFrame()
+    grades = []
+    conc = []
+
+    df = df0.sort_values(by=ordem)
+    df = df.reset_index()
+    del df['index']
+
+    m10=df['x'].sum()
+    m01=df['y'].sum()
+    cx = int(m10/len(df))
+    cy = int(m01/len(df))
+
+    delta = len(df)/100
+    j=0
+    for i in range(0,(len(df)), delta):
+        df1 = df.ix[i:i+delta,:]
+        grades.append(df1[ordem].mean())
+        conc.append(C(df1,cx,cy))
+        j=j+1
+
+    df_Z[ordem] = grades
+    df_Z['Conc'] = conc
+    print(j,cx)
+    print(len(df_Z))
+    print(df_Z.head())
+    return df1,df
+
 
 data_dir = '/home/pnovais/Dropbox/DOUTORADO/renew'
 age = pd.read_csv('Paty_at_flux__yx/age.csv')
@@ -58,8 +95,9 @@ mass = pd.read_csv('PatImages/mass.csv')
 halpha = pd.read_csv('Hamaps/halpha.csv')
 
 
-for i_gal in range(len(halpha)):
-#for i_gal in range(0,3):
+
+#for i_gal in range(len(halpha)):
+for i_gal in range(0,4):
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
     print(bcolors.FAIL + '-'*33 + 'OBJETO: %s' %halpha['num_gal'][i_gal] + '-'*33 + bcolors.ENDC)
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
@@ -75,13 +113,13 @@ for i_gal in range(len(halpha)):
     plt.xlabel('X',fontweight='bold')
     plt.ylabel('Y',fontweight='bold')
     imgplot = plt.imshow(100*np.log10(img/255), cmap=cx)
-    titulo='Galaxy %s ' %halpha['num_gal'][i_gal]
+    titulo='Halpha Maps - Galaxy %s ' %halpha['num_gal'][i_gal]
     plt.title(titulo)
     #plt.colorbar()
     figura = 'figures/galaxy_%s' %age['num_gal'][i_gal]
     plt.savefig(figura)
 
-    #obtendo os dados da imagem fits
+    #obtendo os dados de Halpha da imagem fits
     df_ha = pd.DataFrame()
     nrows, ncols = img.shape
     xx, yy = np.meshgrid( *np.ogrid[:ncols, :nrows] )
@@ -89,8 +127,36 @@ for i_gal in range(len(halpha)):
     temp = pd.DataFrame(table, columns=['x','y','halpha'])
     df_ha = pd.concat([df_ha,temp], axis=1)
 
+    #obtendo os dados de densidade de massa da imagem fits
+    image_mass = fits.open('PatImages/PatImagesMcorSD__yx_%s.fits' %halpha['num_gal'][i_gal])
+    img = get_image(image_mass)
+
+    df_mass = pd.DataFrame()
+    nrows, ncols = img.shape
+    xx, yy = np.meshgrid( *np.ogrid[:ncols, :nrows] )
+    table = np.column_stack(( xx.flatten(), yy.flatten(), img.flatten() ))
+    temp = pd.DataFrame(table, columns=['x','y','mass'])
+    df_mass = pd.concat([df_mass,temp], axis=1)
+
+    #obtendo os dados de idade da imagem fits
+    image_age = fits.open('Paty_at_flux__yx/at_flux__yx_%s.fits' %halpha['num_gal'][i_gal])
+    img = get_image(image_age)
+
+    df_age = pd.DataFrame()
+    nrows, ncols = img.shape
+    xx, yy = np.meshgrid( *np.ogrid[:ncols, :nrows] )
+    table = np.column_stack(( xx.flatten(), yy.flatten(), img.flatten() ))
+    temp = pd.DataFrame(table, columns=['x','y','age'])
+    df_age = pd.concat([df_age,temp], axis=1)
+
     #selecionando apenas os dados de idade > 0 e mass > 0
-    df = df_ha[(df_ha.halpha > 0.0)]
+    df0 = pd.merge(df_age,df_mass)
+    df1 = pd.merge(df0,df_ha, how='inner')
+    df = df1[(df1.age > 0.0) & (df1.mass > 0.0) & (df1.halpha > 0.0)]
+
+    #age_test = Z(df,'age')
+    #mass_test = Z(df,'mass')
+    df1,ha_test = Z(df,'halpha')
 
 
 
