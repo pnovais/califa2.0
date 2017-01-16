@@ -55,7 +55,11 @@ def get_image(f_sdss):
 def C(df,cx,cy):
     df['raio'] = np.sqrt((df['x'] - cx)**2 + (df['y'] - cy)**2)
     a=1
-    return a
+    radius=df.sort_values('raio')
+    r20=radius.iat[int(0.2*len(df)),-1]
+    r80=radius.iat[int(0.8*len(df)),-1]
+    Conc = 0.5*np.log((r80/r20))
+    return Conc
 
 #definindo uma funcao para ordenar a propridade de interesse
 #dividi-lo em bins de igual tamanho e calcular alguns parametros
@@ -86,6 +90,11 @@ def Z(df0,ordem):
     print(j,cx)
     print(len(df_Z))
     print(df_Z.head())
+    plt.figure()
+    plt.xlim([5,12])
+    plt.scatter(x = ordem, y='Conc')
+    plt.savefig('teste')
+    plt.close()
     return df1,df
 
 
