@@ -52,13 +52,15 @@ def get_image(f_sdss):
 #    sky = f_sdss[2].data
     return img
 
+#funcao que calcula a Concentracao de uma populacao, usando a definicao
+#de Conselice(2014) http://iopscience.iop.org/article/10.1086/375001/pdf
 def C(df,cx,cy):
     df['raio'] = np.sqrt((df['x'] - cx)**2 + (df['y'] - cy)**2)
     a=1
     radius=df.sort_values('raio')
     r20=radius.iat[int(0.2*len(df)),-1]
     r80=radius.iat[int(0.8*len(df)),-1]
-    Conc = 0.5*np.log((r80/r20))
+    Conc = 5*np.log((r80/r20))
     return Conc
 
 #definindo uma funcao para ordenar a propridade de interesse
@@ -72,12 +74,15 @@ def Z(df0,ordem):
     df = df.reset_index()
     del df['index']
 
-    m10=df['x'].sum()
-    m01=df['y'].sum()
-    cx = int(m10/len(df))
+    m10=df['x'].sum() #Calculando o momento m10
+    m01=df['y'].sum() #Calculando o momento m01
+    cx = int(m10/len(df)) #Calculando os centroides da imagem
     cy = int(m01/len(df))
-
-    delta = len(df)/100
+    print(cx)
+    print(cy)
+    return df
+    exit()
+    delta = len(df)/100 #Quantidade de bins
     j=0
     for i in range(0,(len(df)), delta):
         df1 = df.ix[i:i+delta,:]
@@ -164,8 +169,8 @@ for i_gal in range(0,4):
     df = df1[(df1.age > 0.0) & (df1.mass > 0.0) & (df1.halpha > 0.0)]
 
     #age_test = Z(df,'age')
-    #mass_test = Z(df,'mass')
-    df1,ha_test = Z(df,'halpha')
+    mass_test = Z(df,ordem='mass')
+#    ha_test = Z(df,'halpha')
 
 
 
