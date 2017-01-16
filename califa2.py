@@ -65,7 +65,7 @@ def C(df,cx,cy):
 
 #definindo uma funcao para ordenar a propridade de interesse
 #dividi-lo em bins de igual tamanho e calcular alguns parametros
-def Z(df0,ordem):
+def Z(df0,gal,ordem):
     df_Z = pd.DataFrame()
     grades = []
     conc = []
@@ -78,10 +78,6 @@ def Z(df0,ordem):
     m01=df['y'].sum() #Calculando o momento m01
     cx = int(m10/len(df)) #Calculando os centroides da imagem
     cy = int(m01/len(df))
-    print(cx)
-    print(cy)
-    return df
-    exit()
     delta = len(df)/100 #Quantidade de bins
     j=0
     for i in range(0,(len(df)), delta):
@@ -89,16 +85,15 @@ def Z(df0,ordem):
         grades.append(df1[ordem].mean())
         conc.append(C(df1,cx,cy))
         j=j+1
-
     df_Z[ordem] = grades
     df_Z['Conc'] = conc
     print(j,cx)
     print(len(df_Z))
     print(df_Z.head())
     plt.figure()
-    plt.xlim([5,12])
-    plt.scatter(x = ordem, y='Conc')
-    plt.savefig('teste')
+    #plt.xlim([5,12])
+    plt.scatter(df_Z[ordem], df_Z['Conc'])
+    plt.savefig('figures/gal%s_concentration_%s' %(gal,ordem))
     plt.close()
     return df1,df
 
@@ -168,8 +163,10 @@ for i_gal in range(0,4):
     df1 = pd.merge(df0,df_ha, how='inner')
     df = df1[(df1.age > 0.0) & (df1.mass > 0.0) & (df1.halpha > 0.0)]
 
+    gal = halpha['num_gal'][i_gal]
+
     #age_test = Z(df,'age')
-    mass_test = Z(df,ordem='mass')
+    mass_test = Z(df,gal,ordem='mass')
 #    ha_test = Z(df,'halpha')
 
 
