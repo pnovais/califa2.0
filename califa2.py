@@ -65,7 +65,7 @@ def C(df,cx,cy):
 
 #definindo uma funcao para ordenar a propridade de interesse
 #dividi-lo em bins de igual tamanho e calcular alguns parametros
-def Z(df0,gal,ordem):
+def Z(df0,gal,Conc,ordem):
     df_Z = pd.DataFrame()
     grades = []
     conc = []
@@ -86,19 +86,14 @@ def Z(df0,gal,ordem):
         conc.append(C(df1,cx,cy))
         j=j+1
     df_Z[ordem] = grades
-    df_Z['Conc'] = conc
+    df_Z[Conc] = conc
     print(j,cx)
     print(len(df_Z))
     print(df_Z.head())
-    plt.figure()
-    #plt.xlim([5,12])
-    plt.scatter(df_Z[ordem], df_Z['Conc'])
-    plt.savefig('figures/gal%s_concentration_%s' %(gal,ordem))
-    plt.close()
-    return df1,df
+    return df_Z
 
 
-data_dir = '/home/pnovais/Dropbox/DOUTORADO/renew'
+#data_dir = '/home/pnovais/Dropbox/DOUTORADO/renew'
 age = pd.read_csv('Paty_at_flux__yx/age.csv')
 mass = pd.read_csv('PatImages/mass.csv')
 halpha = pd.read_csv('Hamaps/halpha.csv')
@@ -165,13 +160,52 @@ for i_gal in range(0,4):
 
     gal = halpha['num_gal'][i_gal]
 
-    #age_test = Z(df,'age')
-    mass_test = Z(df,gal,ordem='mass')
-#    ha_test = Z(df,'halpha')
+    age_test = Z(df,gal,'conc_age','age')
+    mass_test = Z(df,gal,'conc_mass','mass')
+    ha_test = Z(df,gal,'conc_ha','halpha')
 
+    plt.figure()
+    plt.scatter(age_test.age, age_test.conc_age)
+    plt.title(gal)
+    plt.ylabel('Concentraction')
+    plt.xlabel('Age')
+    plt.savefig('figures/concentracao/gal%s_concentration_age' %(gal))
+    plt.close()
 
+    plt.figure()
+    plt.title('Distribuicao C(age)- %s' %gal)
+    age_test.age.hist(bins=100)
+    plt.savefig('figures/concentracao/gal%s_hist_halpha' %(gal))
+    plt.close()
 
+    plt.figure()
+    plt.scatter(mass_test.mass, mass_test.conc_mass)
+    plt.title(gal)
+    plt.ylabel('Concentraction')
+    plt.xlabel('Mass density')
+    plt.savefig('figures/concentracao/gal%s_concentration_mass' %(gal))
+    plt.close()
 
+    plt.figure()
+    mass_test.mass.hist(bins=100)
+    plt.title('Distribuicao C(mass) - %s' %gal)
+    plt.savefig('figures/concentracao/gal%s_hist_halpha' %(gal))
+    plt.close()
+
+    plt.figure()
+    plt.xlim([-5e-17,4e-16])
+    plt.scatter(ha_test.halpha, ha_test.conc_ha)
+    plt.title(gal)
+    plt.ylabel('Concentraction')
+    plt.xlabel('Halpha')
+    plt.savefig('figures/concentracao/gal%s_concentration_halpha' %(gal))
+    plt.close()
+
+    plt.figure()
+    ha_test.halpha.hist(bins=100)
+    plt.title('Distribuicao C(halpha) - %s' %gal)
+    plt.savefig('figures/concentracao/gal%s_hist_halpha' %(gal))
+    plt.close()
 
 
 fim = time.time()
