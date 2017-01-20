@@ -18,6 +18,6 @@ Criando uma pequena amostra de controle, para testar os algoritmos e analisar os
 * K0014 [UGC00312]
 * K0027 [NGC0216]
 
-*\**************************************************************************\*
+***
 
 ![K0010](https://github.com/pnovais/califa2.0/blob/master/control_sample/figures/concentracao/galK0010_concentration_age.png)
