@@ -20,4 +20,4 @@ Criando uma pequena amostra de controle, para testar os algoritmos e analisar os
 
 *\**************************************************************************\*
 
-![K0010](/figures/concentration/galK0010_concentration_age.png)
+![K0010](https://github.com/pnovais/califa2.0/blob/master/control_sample/figures/concentracao/galK0010_concentration_age.png)
