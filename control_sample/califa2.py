@@ -120,7 +120,7 @@ for i_gal in range(0,4):
     titulo='Halpha Maps - Galaxy %s ' %halpha['num_gal'][i_gal]
     plt.title(titulo)
     #plt.colorbar()
-    figura = 'figures/galaxy_%s' %age['num_gal'][i_gal]
+    figura = 'figures/imagens/galaxy_%s' %age['num_gal'][i_gal]
     plt.savefig(figura)
 
     #obtendo os dados de Halpha da imagem fits
@@ -175,7 +175,7 @@ for i_gal in range(0,4):
     plt.figure()
     plt.title('Distribuicao C(age)- %s' %gal)
     age_test.age.hist(bins=100)
-    plt.savefig('figures/concentracao/gal%s_hist_halpha' %(gal))
+    plt.savefig('figures/concentracao/gal%s_hist_age' %(gal))
     plt.close()
 
     plt.figure()
@@ -189,7 +189,7 @@ for i_gal in range(0,4):
     plt.figure()
     mass_test.mass.hist(bins=100)
     plt.title('Distribuicao C(mass) - %s' %gal)
-    plt.savefig('figures/concentracao/gal%s_hist_halpha' %(gal))
+    plt.savefig('figures/concentracao/gal%s_hist_mass' %(gal))
     plt.close()
 
     plt.figure()
