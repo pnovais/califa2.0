@@ -17,3 +17,5 @@ Criando uma pequena amostra de controle, para testar os algoritmos e analisar os
 **Galáxias Irregulares:**
 * K0014 [UGC00312]
 * K0027 [NGC0216]
+
+*\**************************************************************************\
