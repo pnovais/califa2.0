@@ -6,7 +6,7 @@ Esta wiki servirá para documentar os passos realizados no estudo de populaçõe
 _**Author:**_ Patricia Novais.
 
 ***
-## Amostras
+### Amostras
 Estamos trabalhando com 2 amostras: a amostra principal e uma de controle, obtida a partir da primeira.
 
 ### Principal
@@ -44,7 +44,7 @@ Estamos trabalhando com 2 amostras: a amostra principal e uma de controle, obtid
 * K0027 [NGC0216]
 
 ***
-## P-a-P
+### P-a-P
 Para cada propriedade Z (idade, Halpha ou densidade de massa), calcula-se a concentração C(Z), da seguinte forma:
 
 * Para cada propr. Z, ordenar e separar em bins com o mesmo número de pontos
@@ -54,7 +54,7 @@ Para cada propriedade Z (idade, Halpha ou densidade de massa), calcula-se a conc
 * Plots de C(Z)
 
 ***
-## Primeiros testes com a amostra de controle
+### Primeiros testes com a amostra de controle
 Os gráficos de C(Z) e das distribuições das propriedades Z's, podem ser vistas na aba [Primeiros gráficos](https://github.com/pnovais/califa2.0/wiki/Primeiros-gr%C3%A1ficos)
 
 **Idade**
