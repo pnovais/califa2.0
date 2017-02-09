@@ -34,23 +34,23 @@ As imagens, em cores falsas, podem ser visualizadas [aqui.](https://www.dropbox.
 
 **Galáxias Elípticas:**
 
-* K0035 [NGC0364]
-* K0602 [NGC4956]
+* K0035 [NGC0364](http://www.caha.es/CALIFA/public_html/?q=content/califa-explorer-v01&califaid=35)
+* K0602 [NGC4956](http://www.caha.es/CALIFA/public_html/?q=content/califa-explorer-v01&califaid=602)
 
 **Galáxias S0:**
 
-* K0047 [NGC0517]
-* K0607 [UGC08264]
+* K0047 [NGC0517](http://www.caha.es/CALIFA/public_html/?q=content/califa-explorer-v01&califaid=47)
+* K0607 [UGC08264](http://www.caha.es/CALIFA/public_html/?q=content/califa-explorer-v01&califaid=607)
 
 **Galáxias Espirais:**
 
-* K0010 [NGC0036]
-* K0023 [NGC0171]
+* K0010 [NGC0036](http://www.caha.es/CALIFA/public_html/?q=content/califa-explorer-v01&califaid=10)
+* K0023 [NGC0171](http://www.caha.es/CALIFA/public_html/?q=content/califa-explorer-v01&califaid=23)
 
 **Galáxias Irregulares:**
 
-* K0014 [UGC00312]
-* K0027 [NGC0216]
+* K0014 [UGC00312](http://www.caha.es/CALIFA/public_html/?q=content/califa-explorer-v01&califaid=14)
+* K0027 [NGC0216](http://www.caha.es/CALIFA/public_html/?q=content/califa-explorer-v01&califaid=27)
 
 ***
 
