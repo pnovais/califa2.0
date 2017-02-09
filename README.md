@@ -9,11 +9,13 @@ _**Author:**_ Patricia Novais.
 
 Acesse a Wiki [aqui.](https://github.com/pnovais/califa2.0/wiki)
 
-Acesse o github com códigos, resultados e figuras [aqui.](https://github.com/pnovais/califa2.0)
+Acesse o github [aqui.](https://github.com/pnovais/califa2.0)
 
 ***
 
 ## Amostras
+
+As imagens, em cores falsas, podem ser visualizadas [aqui](https://www.dropbox.com/sh/a2n1uwyhihrh6b1/AACTP_JX9nqvLgMg-vjeRx1ma?dl=0)
 
 ### Principal
 276 objetos, com dados espacialmente resolvidos de:
