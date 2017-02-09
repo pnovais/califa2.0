@@ -1,7 +1,7 @@
 # RETOMANDO MINHAS ANÁLISES 
 CALIFA 2.0 Reiniciando os projetos
 
-Esta wiki servirá para documentar os passos realizados no estudo de populações estelares espacialmente resolvidas de galáxias do projeto CALIFA. 
+Esta wiki servirá para documentar os passos realizados no estudo de populações estelares espacialmente resolvidas, em galáxias do projeto CALIFA. 
 
 _**Author:**_ Patricia Novais.
 ***
@@ -11,7 +11,6 @@ Acesse a Wiki [aqui.](https://github.com/pnovais/califa2.0/wiki)
 ***
 
 ## Amostras
-Estamos trabalhando com 2 amostras: a amostra principal e uma de controle, obtida a partir da primeira.
 
 ### Principal
 276 objetos, com dados espacialmente resolvidos de:
