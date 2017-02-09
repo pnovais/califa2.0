@@ -4,6 +4,9 @@ CALIFA 2.0 Reiniciando os projetos
 Esta wiki servirá para documentar os passos realizados no estudo de populações estelares espacialmente resolvidas de galáxias do projeto CALIFA. 
 
 _**Author:**_ Patricia Novais.
+***
+
+Acesse a Wiki [aqui](https://github.com/pnovais/califa2.0/wiki)
 
 ***
 
