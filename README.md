@@ -6,7 +6,7 @@ Esta wiki servirá para documentar os passos realizados no estudo de populaçõe
 _**Author:**_ Patricia Novais.
 ***
 
-Acesse a Wiki [aqui](https://github.com/pnovais/califa2.0/wiki)
+Acesse a Wiki [aqui.](https://github.com/pnovais/califa2.0/wiki)
 
 ***
 
