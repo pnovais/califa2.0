@@ -60,7 +60,7 @@ Para cada propriedade Z (idade, Halpha ou densidade de massa), calcula-se a conc
 * Para cada propr. Z, ordenar e separar em bins com o mesmo número de pontos
 * bins=100
 * Para cada bin, calculamos a concentração C(Z)
-    * C(z) = 5 log(r80/r20) [See Conselice(2003,2014)](http://iopscience.iop.org/article/10.1086/375001/pdf)
+    * C(Z) = 5 log(r80/r20) [See Conselice(2003,2014)](http://iopscience.iop.org/article/10.1086/375001/pdf)
 * Plots de C(Z)
 
 ***
