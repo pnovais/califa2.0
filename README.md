@@ -1,5 +1,5 @@
 # RETOMANDO MINHAS ANÁLISES 
-# CALIFA 2.0 Reiniciando os projetos
+CALIFA 2.0 Reiniciando os projetos
 
 Esta wiki servirá para documentar os passos realizados no estudo de populações estelares espacialmente resolvidas de galáxias do projeto CALIFA. 
 
@@ -7,6 +7,7 @@ _**Author:**_ Patricia Novais.
 
 ***
 ## Amostras
+
 ### Principal
 276 objetos, com dados espacialmente resolvidos de:
    * Idade ponderada pela luminosidade
@@ -15,24 +16,29 @@ _**Author:**_ Patricia Novais.
 
 ### Controle (apenas para teste de algoritmo e primeiros resultados)
 8 objetos, de 4 tipos morfológicos:
+
    * 2 elípticas, E1 e E7
    * 2 lenticulares, S0
    * 2 espirais, Sb
    * 2 tardias, Sd
 
 **Galáxias Elípticas:**
+
 * K0035 [NGC0364]
 * K0602 [NGC4956]
 
 **Galáxias S0:**
+
 * K0047 [NGC0517]
 * K0607 [UGC08264]
 
 **Galáxias Espirais:**
+
 * K0010 [NGC0036]
 * K0023 [NGC0171]
 
 **Galáxias Irregulares:**
+
 * K0014 [UGC00312]
 * K0027 [NGC0216]
 
