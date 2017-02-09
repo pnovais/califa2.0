@@ -7,7 +7,7 @@ _**Author:**_ Patricia Novais.
 
 ***
 ## Amostras
-
+Estamos trabalhando com 2 amostras: a amostra principal e uma de controle, obtida a partir da primeira.
 ### Principal
 276 objetos, com dados espacialmente resolvidos de:
    * Idade ponderada pela luminosidade
