@@ -15,6 +15,7 @@ Estamos trabalhando com 2 amostras: a amostra principal e uma de controle, obtid
 
 ### Principal
 276 objetos, com dados espacialmente resolvidos de:
+
    * Idade ponderada pela luminosidade
    * Emissão em Halpha
    * Densidade de massa
