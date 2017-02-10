@@ -63,6 +63,18 @@ Para cada propriedade Z (idade, Halpha ou densidade de massa), calcula-se a conc
     * C(Z) = 5 log(r80/r20) [See Conselice(2003,2014)](http://iopscience.iop.org/article/10.1086/375001/pdf)
 * Plots de C(Z)
 
+
+### Simulações
+
+Para maiores detalhes, veja [Simulações.](https://github.com/pnovais/califa2.0/wiki/Simula%C3%A7%C3%B5es)
+
+1a fase: 
+* galaxias circulares
+* pixelização (x,y,r)
+* Z = Z(r) + sigma
+* calculo dos parametros
+
+
 ***
 
 ### Primeiros testes com a amostra de controle
