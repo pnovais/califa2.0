@@ -1,3 +1,5 @@
+ # -*- coding: utf-8 -*-
+
 '''
 Programa para trabalhar os dados do CALIFA
 Uma nova abordagem, sem separacao de populacoes estelares
@@ -205,6 +207,9 @@ for i_gal in range(6,8):
     plt.title('Distribuicao C(halpha) - %s' %gal)
     plt.savefig('figures/concentracao/gal%s_hist_halpha' %(gal))
     plt.close()
+
+
+
 
 
 fim = time.time()
