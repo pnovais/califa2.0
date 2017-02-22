@@ -5,7 +5,15 @@ Programa para trabalhar os dados do CALIFA
 Uma nova abordagem, sem separacao de populacoes estelares
 Retomando minha pesquisa... Que o Universo me ajude!
 
+Versão 2.0
 07-dezembro-2016
+------------------
+
+Versão 2.1
+22-fevereiro-2017
+Adição dos perfis radiais
+
+
 '''
 
 #!/usr/bin/python
@@ -80,7 +88,7 @@ def Z(df0,gal,Conc,ordem):
     m01=df['y'].sum() #Calculando o momento m01
     cx = int(m10/len(df)) #Calculando os centroides da imagem
     cy = int(m01/len(df))
-    delta = len(df)/100 #Quantidade de bins
+    delta = len(df)/50 #Quantidade de bins
     j=0
     for i in range(0,(len(df)), delta):
         df1 = df.ix[i:i+delta,:]
@@ -102,7 +110,7 @@ halpha = pd.read_csv('Hamaps/halpha.csv')
 
 
 #for i_gal in range(len(halpha)):
-for i_gal in range(0,2):
+for i_gal in range(0,4):
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
     print(bcolors.FAIL + '-'*33 + 'OBJETO: %s' %halpha['num_gal'][i_gal] + '-'*33 + bcolors.ENDC)
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
@@ -216,13 +224,13 @@ for i_gal in range(0,2):
     plt.close()
 
     plt.figure()
-    plt.scatter(raio_test.raio, ha_test.conc_ha)
+    #plt.ylim([0,0.6])
+    plt.scatter(raio_test.raio, raio_test.conc_raio)
     plt.title(gal)
     plt.ylabel('Concentraction')
-    plt.xlabel('Halpha')
-    plt.savefig('figures/concentracao/gal%s_concentration_halpha' %(gal))
+    plt.xlabel('Raio')
+    plt.savefig('figures/concentracao/gal%s_concentration_raio' %(gal))
     plt.close()
-
 
 
 
