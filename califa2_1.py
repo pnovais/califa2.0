@@ -1,4 +1,4 @@
- # -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 '''
 Programa para trabalhar os dados do CALIFA
@@ -78,6 +78,10 @@ def C(df,cx,cy):
 def Z(df0,gal,Conc,ordem):
     df_Z = pd.DataFrame()
     propr = []
+    raio = []
+    halpha = []
+    dens = []
+    idade = []
     conc = []
 
     df = df0.sort_values(by=ordem)
@@ -93,9 +97,17 @@ def Z(df0,gal,Conc,ordem):
     for i in range(0,(len(df)), delta):
         df1 = df.ix[i:i+delta,:]
         propr.append(df1[ordem].mean())
+        raio.append(df1['raio'].mean())
+        halpha.append(df1['halpha'].mean())
+        dens.append(df1['mass'].mean())
+        idade.append(df1['age'].mean())
         conc.append(C(df1,cx,cy))
         j=j+1
     df_Z[ordem] = propr
+    df_Z['raio_m'] = raio
+    df_Z['age_m'] = idade
+    df_Z['mass_m'] = dens
+    df_Z['halpha_m'] = halpha
     df_Z[Conc] = conc
     print(j,cx)
     print(len(df_Z))
@@ -109,8 +121,8 @@ mass = pd.read_csv('PatImages/mass.csv')
 halpha = pd.read_csv('Hamaps/halpha.csv')
 
 
-#for i_gal in range(len(halpha)):
-for i_gal in range(0,2):
+for i_gal in range(len(halpha)):
+#for i_gal in range(0,2):
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
     print(bcolors.FAIL + '-'*33 + 'OBJETO: %s' %halpha['num_gal'][i_gal] + '-'*33 + bcolors.ENDC)
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
@@ -224,15 +236,42 @@ for i_gal in range(0,2):
     plt.close()
 
     plt.figure()
-    #plt.ylim([0,0.6])
     plt.scatter(raio_test.raio, raio_test.conc_raio)
+    plt.plot(raio_test.raio, raio_test.conc_raio, color='#7e2601',linewidth=1)
+#    plt.ylim([0,0.5])
     plt.title(gal)
     plt.ylabel('Concentraction')
     plt.xlabel('Raio')
-    plt.savefig('figures/concentracao/gal%s_concentration_raio' %(gal))
+    plt.savefig('figures/concentracao/gal%s_perfil_concentracao' %(gal))
     plt.close()
 
+    plt.figure()
+    plt.scatter(raio_test.raio, raio_test.age_m)
+    plt.plot(raio_test.raio, raio_test.age_m, color='#7e2601',linewidth=1)
+    plt.title(gal)
+    plt.ylabel('Mean Age')
+    plt.xlabel('Raio')
+    plt.savefig('figures/concentracao/gal%s_perfil_idade' %(gal))
+    plt.close()
 
+    plt.figure()
+    plt.scatter(raio_test.raio, raio_test.mass_m)
+    plt.plot(raio_test.raio, raio_test.mass_m, color='#7e2601',linewidth=1)
+    plt.title(gal)
+    plt.ylabel('Mean mass density')
+    plt.xlabel('Raio')
+    plt.savefig('figures/concentracao/gal%s_perfil_densmass' %(gal))
+    plt.close()
+
+    plt.figure()
+    plt.ylim([-5e-17,4e-16])
+    plt.scatter(raio_test.raio, raio_test.halpha_m)
+    plt.plot(raio_test.raio, raio_test.halpha_m, color='#7e2601',linewidth=1)
+    plt.title(gal)
+    plt.ylabel('Mean Halpha')
+    plt.xlabel('Raio')
+    plt.savefig('figures/concentracao/gal%s_perfil_halpha' %(gal))
+    plt.close()
 
 
 fim = time.time()
