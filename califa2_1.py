@@ -121,8 +121,8 @@ mass = pd.read_csv('PatImages/mass.csv')
 halpha = pd.read_csv('Hamaps/halpha.csv')
 
 
-#for i_gal in range(len(halpha)):
-for i_gal in range(0,2):
+for i_gal in range(len(halpha)):
+#for i_gal in range(0,2):
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
     print(bcolors.FAIL + '-'*33 + 'OBJETO: %s' %halpha['num_gal'][i_gal] + '-'*33 + bcolors.ENDC)
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
@@ -141,7 +141,7 @@ for i_gal in range(0,2):
     titulo='Halpha Maps - Galaxy %s ' %halpha['num_gal'][i_gal]
     plt.title(titulo)
     #plt.colorbar()
-    figura = 'figures/imagens_Ha/galaxy_%s' %age['num_gal'][i_gal]
+    figura = 'figures/imagens_Ha/galaxy_%s' %halpha['num_gal'][i_gal]
     plt.savefig(figura)
 
     #obtendo os dados de Halpha da imagem fits
@@ -221,7 +221,7 @@ for i_gal in range(0,2):
     plt.close()
 
     plt.figure()
-    plt.xlim([-5e-17,4e-16])
+    plt.xlim([(ha_test.halpha.min()-(2e-17)),(ha_test.halpha.max()+(2e-17))])
     plt.scatter(ha_test.halpha, ha_test.conc_ha)
     plt.title(gal)
     plt.ylabel('Concentraction')
@@ -238,7 +238,6 @@ for i_gal in range(0,2):
     plt.figure()
     plt.scatter(raio_test.raio, raio_test.conc_raio)
     plt.plot(raio_test.raio, raio_test.conc_raio, color='#7e2601',linewidth=1)
-#    plt.ylim([0,0.5])
     plt.title(gal)
     plt.ylabel('Concentraction')
     plt.xlabel('Raio')
@@ -264,7 +263,7 @@ for i_gal in range(0,2):
     plt.close()
 
     plt.figure()
-    plt.ylim([-5e-17,4e-16])
+    plt.ylim([(raio_test.halpha_m.min()-(2e-17)),(raio_test.halpha_m.max()+(2e-17))])
     plt.scatter(raio_test.raio, raio_test.halpha_m)
     plt.plot(raio_test.raio, raio_test.halpha_m, color='#7e2601',linewidth=1)
     plt.title(gal)
