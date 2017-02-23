@@ -121,8 +121,8 @@ mass = pd.read_csv('PatImages/mass.csv')
 halpha = pd.read_csv('Hamaps/halpha.csv')
 
 
-for i_gal in range(len(halpha)):
-#for i_gal in range(0,2):
+#for i_gal in range(len(halpha)):
+for i_gal in range(0,2):
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
     print(bcolors.FAIL + '-'*33 + 'OBJETO: %s' %halpha['num_gal'][i_gal] + '-'*33 + bcolors.ENDC)
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
@@ -141,7 +141,7 @@ for i_gal in range(len(halpha)):
     titulo='Halpha Maps - Galaxy %s ' %halpha['num_gal'][i_gal]
     plt.title(titulo)
     #plt.colorbar()
-    figura = 'figures/imagens/galaxy_%s' %age['num_gal'][i_gal]
+    figura = 'figures/imagens_Ha/galaxy_%s' %age['num_gal'][i_gal]
     plt.savefig(figura)
 
     #obtendo os dados de Halpha da imagem fits
@@ -242,7 +242,7 @@ for i_gal in range(len(halpha)):
     plt.title(gal)
     plt.ylabel('Concentraction')
     plt.xlabel('Raio')
-    plt.savefig('figures/concentracao/gal%s_perfil_concentracao' %(gal))
+    plt.savefig('figures/perfis_radiais/gal%s_perfil_concentracao' %(gal))
     plt.close()
 
     plt.figure()
@@ -251,7 +251,7 @@ for i_gal in range(len(halpha)):
     plt.title(gal)
     plt.ylabel('Mean Age')
     plt.xlabel('Raio')
-    plt.savefig('figures/concentracao/gal%s_perfil_idade' %(gal))
+    plt.savefig('figures/perfis_radiais/gal%s_perfil_idade' %(gal))
     plt.close()
 
     plt.figure()
@@ -260,7 +260,7 @@ for i_gal in range(len(halpha)):
     plt.title(gal)
     plt.ylabel('Mean mass density')
     plt.xlabel('Raio')
-    plt.savefig('figures/concentracao/gal%s_perfil_densmass' %(gal))
+    plt.savefig('figures/perfis_radiais/gal%s_perfil_densmass' %(gal))
     plt.close()
 
     plt.figure()
@@ -270,7 +270,7 @@ for i_gal in range(len(halpha)):
     plt.title(gal)
     plt.ylabel('Mean Halpha')
     plt.xlabel('Raio')
-    plt.savefig('figures/concentracao/gal%s_perfil_halpha' %(gal))
+    plt.savefig('figures/perfis_radiais/gal%s_perfil_halpha' %(gal))
     plt.close()
 
 
