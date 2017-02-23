@@ -77,7 +77,7 @@ def C(df,cx,cy):
 #dividi-lo em bins de igual tamanho e calcular alguns parametros
 def Z(df0,gal,Conc,ordem):
     df_Z = pd.DataFrame()
-    grades = []
+    propr = []
     conc = []
 
     df = df0.sort_values(by=ordem)
@@ -92,10 +92,10 @@ def Z(df0,gal,Conc,ordem):
     j=0
     for i in range(0,(len(df)), delta):
         df1 = df.ix[i:i+delta,:]
-        grades.append(df1[ordem].mean())
+        propr.append(df1[ordem].mean())
         conc.append(C(df1,cx,cy))
         j=j+1
-    df_Z[ordem] = grades
+    df_Z[ordem] = propr
     df_Z[Conc] = conc
     print(j,cx)
     print(len(df_Z))
@@ -110,7 +110,7 @@ halpha = pd.read_csv('Hamaps/halpha.csv')
 
 
 #for i_gal in range(len(halpha)):
-for i_gal in range(0,4):
+for i_gal in range(0,2):
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
     print(bcolors.FAIL + '-'*33 + 'OBJETO: %s' %halpha['num_gal'][i_gal] + '-'*33 + bcolors.ENDC)
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
