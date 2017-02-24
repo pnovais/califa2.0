@@ -186,6 +186,7 @@ for i_gal in range(len(halpha)):
     df['raio'] = np.sqrt((df['x'] - cx)**2 + (df['y'] - cy)**2)
 
     gal = halpha['num_gal'][i_gal]
+    tipo = halpha['type'][i_gal]
 
     age_test = Z(df,gal,'conc_age','age')
     mass_test = Z(df,gal,'conc_mass','mass')
@@ -235,6 +236,31 @@ for i_gal in range(len(halpha)):
     plt.savefig('figures/concentracao/gal%s_hist_halpha' %(gal))
     plt.close()
 
+    plt.figure(1)
+    plt.title(gal)
+    ax1 = plt.subplot(311)
+    plt.title('%s - %s' %(gal, tipo))
+    plt.scatter(raio_test.raio, raio_test.age_m)
+    plt.plot(raio_test.raio, raio_test.age_m, color='#7e2601',linewidth=1)
+    plt.ylabel('Mean Age')
+    plt.setp(ax1.get_xticklabels(), visible=False)
+
+    ax2 = plt.subplot(312, sharex=ax1)
+    plt.ylim([(raio_test.halpha_m.min()-(2e-17)),(raio_test.halpha_m.max()+(2e-17))])
+    plt.scatter(raio_test.raio, raio_test.halpha_m)
+    plt.plot(raio_test.raio, raio_test.halpha_m, color='#7e2601',linewidth=1)
+    plt.ylabel('Mean Halpha')
+    plt.setp(ax2.get_xticklabels(), visible=False)
+
+    ax3 = plt.subplot(313, sharex=ax2)
+    plt.scatter(raio_test.raio, raio_test.mass_m)
+    plt.plot(raio_test.raio, raio_test.mass_m, color='#7e2601',linewidth=1)
+    plt.ylabel('Mean mass density')
+    plt.xlabel('Raio')
+    plt.savefig('figures/perfis_radiais/gal%s_perfis' %(gal))
+    plt.close(1)
+
+
     plt.figure()
     plt.scatter(raio_test.raio, raio_test.conc_raio)
     plt.plot(raio_test.raio, raio_test.conc_raio, color='#7e2601',linewidth=1)
@@ -243,7 +269,7 @@ for i_gal in range(len(halpha)):
     plt.xlabel('Raio')
     plt.savefig('figures/perfis_radiais/gal%s_perfil_concentracao' %(gal))
     plt.close()
-
+'''
     plt.figure()
     plt.scatter(raio_test.raio, raio_test.age_m)
     plt.plot(raio_test.raio, raio_test.age_m, color='#7e2601',linewidth=1)
@@ -271,7 +297,7 @@ for i_gal in range(len(halpha)):
     plt.xlabel('Raio')
     plt.savefig('figures/perfis_radiais/gal%s_perfil_halpha' %(gal))
     plt.close()
-
+'''
 
 fim = time.time()
 time_proc = fim - ini
