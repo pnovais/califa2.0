@@ -17,11 +17,19 @@ Adição dos perfis radiais circulares
 ------------------
 Versão 2.2
 24-fevereiro-2017
+
 -Adição de uma função para o cálculo da excentricidade da elipse e
 ângulo de inclinação, para cálculo dos perfis radiais elípticos
 
 -Normalização dos raios médios
 -Adição dos std nas medidas
+
+-------------------
+Versão 2.2.1
+06-março-2017
+
+-Cálculo de momentos, parâmetros da elipse e centróides através de módulos a parte
+-Cálculo dos perfis radiais elipticos
 
 
 '''
@@ -48,6 +56,7 @@ import cubehelix
 import matplotlib.mlab as mlab
 import scipy, pylab
 import math
+import momentos as mom
 
 __author__ = 'pnovais'
 ini=time.time()
@@ -74,8 +83,7 @@ def get_image(f_sdss):
 
 #funcao que calcula a Concentracao de uma populacao, usando a definicao
 #de Conselice(2014) http://iopscience.iop.org/article/10.1086/375001/pdf
-def C(df,cx,cy):
-#    df['raio'] = np.sqrt((df['x'] - cx)**2 + (df['y'] - cy)**2)
+def C(df):
     a=1
     radius=df.sort_values('raio')
     r20=radius.iat[int(0.2*len(df)),-1]
@@ -103,10 +111,7 @@ def Z(df0,gal,Conc,ordem):
     df = df.reset_index()
     del df['index']
 
-    m10=df['x'].sum() #Calculando o momento m10
-    m01=df['y'].sum() #Calculando o momento m01
-    cx = int(m10/len(df)) #Calculando os centroides da imagem
-    cy = int(m01/len(df))
+    cx, cy = mom.centro_mass(df)
     delta = len(df)/50 #Quantidade de bins
     j=0
     for i in range(0,(len(df)), delta):
@@ -121,7 +126,7 @@ def Z(df0,gal,Conc,ordem):
         err_dens.append(df1['mass'].std())
         idade.append(df1['age'].mean())
         err_age.append(df1['age'].std())
-        conc.append(C(df1,cx,cy))
+        conc.append(C(df1))
         j=j+1
     df_Z[ordem] = propr
     df_Z['erro'] = err_prop
@@ -204,10 +209,7 @@ for i_gal in range(0,2):
     df1 = pd.merge(df0,df_ha, how='inner')
     df = df1[(df1.age > 0.0) & (df1.mass > 0.0) & (df1.halpha > 0.0)]
 
-    m10=df['x'].sum() #Calculando o momento m10
-    m01=df['y'].sum() #Calculando o momento m01
-    cx = int(m10/len(df)) #Calculando os centroides da imagem
-    cy = int(m01/len(df))
+    cx, cy = mom.centro_mass(df)
     df['raio'] = np.sqrt((df['x'] - cx)**2 + (df['y'] - cy)**2)
 
     gal = halpha['num_gal'][i_gal]
