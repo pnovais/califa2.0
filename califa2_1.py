@@ -65,7 +65,6 @@ def get_image(f_sdss):
 #funcao que calcula a Concentracao de uma populacao, usando a definicao
 #de Conselice(2014) http://iopscience.iop.org/article/10.1086/375001/pdf
 def C(df,cx,cy):
-#    df['raio'] = np.sqrt((df['x'] - cx)**2 + (df['y'] - cy)**2)
     a=1
     radius=df.sort_values('raio')
     r20=radius.iat[int(0.2*len(df)),-1]

@@ -17,8 +17,11 @@ Adição dos perfis radiais circulares
 ------------------
 Versão 2.2
 24-fevereiro-2017
-Adição de uma função para o cálculo da excentricidade da elipse e
+-Adição de uma função para o cálculo da excentricidade da elipse e
 ângulo de inclinação, para cálculo dos perfis radiais elípticos
+
+-Normalização dos raios médios
+-Adição dos std nas medidas
 
 
 '''
@@ -85,10 +88,15 @@ def C(df,cx,cy):
 def Z(df0,gal,Conc,ordem):
     df_Z = pd.DataFrame()
     propr = []
+    err_prop = []
     raio = []
+    err_raio = []
     halpha = []
+    err_halpha = []
     dens = []
+    err_dens = []
     idade = []
+    err_age = []
     conc = []
 
     df = df0.sort_values(by=ordem)
@@ -104,17 +112,27 @@ def Z(df0,gal,Conc,ordem):
     for i in range(0,(len(df)), delta):
         df1 = df.ix[i:i+delta,:]
         propr.append(df1[ordem].mean())
+        err_prop.append(df1[ordem].std())
         raio.append(df1['raio'].mean())
+        err_raio.append(df1['raio'].std())
         halpha.append(df1['halpha'].mean())
+        err_halpha.append(df1['halpha'].std())
         dens.append(df1['mass'].mean())
+        err_dens.append(df1['mass'].std())
         idade.append(df1['age'].mean())
+        err_age.append(df1['age'].std())
         conc.append(C(df1,cx,cy))
         j=j+1
     df_Z[ordem] = propr
+    df_Z['erro'] = err_prop
     df_Z['raio_m'] = raio
+    df_Z['err_raio'] = err_raio
     df_Z['age_m'] = idade
+    df_Z['err_age'] = err_age
     df_Z['mass_m'] = dens
+    df_Z['err_mass'] = err_dens
     df_Z['halpha_m'] = halpha
+    df_Z['err_halpha'] = err_halpha
     df_Z[Conc] = conc
     print(j,cx)
     print(len(df_Z))
@@ -128,8 +146,8 @@ mass = pd.read_csv('PatImages/mass.csv')
 halpha = pd.read_csv('Hamaps/halpha.csv')
 
 
-for i_gal in range(len(halpha)):
-#for i_gal in range(0,2):
+#for i_gal in range(len(halpha)):
+for i_gal in range(0,2):
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
     print(bcolors.FAIL + '-'*33 + 'OBJETO: %s' %halpha['num_gal'][i_gal] + '-'*33 + bcolors.ENDC)
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
@@ -247,21 +265,22 @@ for i_gal in range(len(halpha)):
     plt.title(gal)
     ax1 = plt.subplot(311)
     plt.title('%s - %s' %(gal, tipo))
-    plt.scatter(raio_test.raio, raio_test.age_m)
-    plt.plot(raio_test.raio, raio_test.age_m, color='#7e2601',linewidth=1)
+    ax1.errorbar(raio_test.raio_m, raio_test.age_m, yerr=raio_test.err_age, fmt='o')
+#    plt.scatter(raio_test.raio_m, raio_test.age_m)
+    plt.plot(raio_test.raio_m, raio_test.age_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean Age')
     plt.setp(ax1.get_xticklabels(), visible=False)
 
     ax2 = plt.subplot(312, sharex=ax1)
     plt.ylim([(raio_test.halpha_m.min()-(2e-17)),(raio_test.halpha_m.max()+(2e-17))])
-    plt.scatter(raio_test.raio, raio_test.halpha_m)
-    plt.plot(raio_test.raio, raio_test.halpha_m, color='#7e2601',linewidth=1)
+    ax2.errorbar(raio_test.raio_m, raio_test.halpha_m, yerr=raio_test.err_halpha, fmt='o')
+    plt.plot(raio_test.raio_m, raio_test.halpha_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean Halpha')
     plt.setp(ax2.get_xticklabels(), visible=False)
 
     ax3 = plt.subplot(313, sharex=ax2)
-    plt.scatter(raio_test.raio, raio_test.mass_m)
-    plt.plot(raio_test.raio, raio_test.mass_m, color='#7e2601',linewidth=1)
+    ax3.errorbar(raio_test.raio_m, raio_test.mass_m, yerr=raio_test.err_mass, fmt='.')
+    plt.plot(raio_test.raio_m, raio_test.mass_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean mass density')
     plt.xlabel('Raio')
     plt.savefig('figures/perfis_radiais/gal%s_perfis' %(gal))
@@ -269,8 +288,8 @@ for i_gal in range(len(halpha)):
 
 
     plt.figure()
-    plt.scatter(raio_test.raio, raio_test.conc_raio)
-    plt.plot(raio_test.raio, raio_test.conc_raio, color='#7e2601',linewidth=1)
+    plt.scatter(raio_test.raio_m, raio_test.conc_raio)
+    plt.plot(raio_test.raio_m, raio_test.conc_raio, color='#7e2601',linewidth=1)
     plt.title(gal)
     plt.ylabel('Concentraction')
     plt.xlabel('Raio')
