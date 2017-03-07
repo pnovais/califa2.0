@@ -205,10 +205,10 @@ for i_gal in range(len(halpha)):
     cx, cy = mom.centro_mass(df)
     tetha, exc, a, b = mom.param_elipse(df)
     df['raio'] = np.sqrt((df['x'] - cx)**2 + (df['y'] - cy)**2)
-    d = ((df['x'] - cx)*np.cos(math.radians(90)+tetha) + (df['y'] - cy)*np.sin(math.radians(180)+tetha))**2
-    e = ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(math.radians(90)+tetha))**2
-    #d = ((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2
-    #e = ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2
+    #d = ((df['x'] - cx)*np.cos(math.radians(90)+tetha) + (df['y'] - cy)*np.sin(math.radians(180)+tetha))**2
+    #e = ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(math.radians(90)+tetha))**2
+    d = ((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2
+    e = ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2
     delta = ((1-exc)**2)*((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2 + ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2
     df['a'] = np.sqrt(d + e/((1-exc)**2))
 
@@ -306,13 +306,15 @@ for i_gal in range(len(halpha)):
     fig, ax = plt.subplots()
 
     ax.add_patch(ell)
-    ax.set_aspect('equal')
+    #ax.set_aspect('equal')
     ax.autoscale()
-    df2 = df.ix[(df.a > 5) & (df.a < 7)]
-    df3 = df.ix[(df.a > 25) & (df.a < 27)]
+    df2 = df.ix[(df.a > a/3) & (df.a < (a/3 + 2))]
+    df3 = df.ix[(df.a > a/2) & (df.a < (a/2 + 2))]
+    df4 = df.ix[(df.a > a) & (df.a < (a + 2))]
     plt.scatter(df.x,df.y, c='red', s=10, alpha=0.7)
-    plt.scatter(df2.x,df2.y, c='blue')
-    plt.scatter(df3.x,df3.y, c='darkblue')
+    plt.scatter(df2.x,df2.y, c='royalblue')
+    plt.scatter(df3.x,df3.y, c='blue')
+    plt.scatter(df4.x, df4.y, c='navy')
     plt.savefig('figures/teste_elipse/gal%s_elipses' %(gal))
     plt.close()
     print('excentricidade = %f' %exc)
