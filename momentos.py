@@ -47,7 +47,6 @@ def m_naocentrais(df):
     m11=(df['x']*df['y']).sum()
     m20=(df['x']*df['x']).sum()
     m02=(df['y']*df['y']).sum()
-    print('teste nao cent')
     return(m11, m20, m02)
 
 def m_centrais(df):
@@ -62,7 +61,6 @@ def m_centrais(df):
     mu_21=((df['y']-cx)*((df['x']-cx)**2)).sum()
     mu_30=((df['x']-cx)**3).sum()
     mu_03=((df['y']-cy)**3).sum()
-    print('teste cent')
     return(mu_11, mu_20, mu_02, mu_12, mu_21, mu_30, mu_03)
 
 def m_invEscala(df):
@@ -74,7 +72,6 @@ def m_invEscala(df):
     n20=mu_20/(len(df)**2)
     n30=mu_30/(len(df)**2.5)
     n03=mu_03/(len(df)**2.5)
-    print('teste inv')
     return(n11, n21, n12, n20, n02, n30, n03)
 
 def hu_moments(df):
@@ -86,7 +83,6 @@ def hu_moments(df):
     I5 = (n30 - 3*n12)*(n30 + n12)*(((n30 + n12)**2) - 3*((n21 + n03)**2)) + (3*n21 - n03)*(n12 + n03)*(3*((n30 + n12)**2) - ((n21 + n03)**2))
     I6 = (n20 - n02)*((n30 + n12)**2 - (n21 + n03)**2) + 4*n11*(n30 + n12)*(n21 + n03)
     I7 = (3*n21 - n03)*(n30 + n12)*((n30 + n12)**2 - 3*(n21 + n03)**2) - (n30 - 3*n12)*(n21 + n03)*(3*(n30 + n12)**2 - (n21 + n03)**2)
-    print('teste hu')
     return(I1, I2, I3, I4, I5, I6, I7)
 
 def param_elipse(df):
@@ -97,15 +93,14 @@ def param_elipse(df):
     a = np.sqrt((2*(dd + np.sqrt(ee)))/len(df))
     b = np.sqrt((2*(dd - np.sqrt(ee)))/len(df))
     #Orientacao da Elipse
-    tetha = 0.5*np.arctan((2*mu_11)/(mu_20 - mu_02))
+    tetha = 0.5*np.arctan2((2*mu_11),(mu_20 - mu_02))
     #Excentricidade
     exc = 1 - (b/a)
-    print('teste param')
     return(tetha,exc,a,b)
 
-df = pd.read_csv('unit_test.csv')
+#df = pd.read_csv('unit_test.csv')
 
-y = centro_mass(df)
+#y = centro_mass(df)
 
 
 fim = time.time()

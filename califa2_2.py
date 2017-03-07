@@ -139,9 +139,9 @@ def Z(df0,gal,Conc,ordem):
     df_Z['halpha_m'] = halpha
     df_Z['err_halpha'] = err_halpha
     df_Z[Conc] = conc
-    print(j,cx)
-    print(len(df_Z))
-    print(df_Z.head())
+#    print(j,cx)
+#    print(len(df_Z))
+    #print(df_Z.head())
     return df_Z
 
 
@@ -158,11 +158,10 @@ data_dir = '/home/pnovais/Dropbox/DOUTORADO/renew'
 age = pd.read_csv('Paty_at_flux__yx/age.csv')
 mass = pd.read_csv('PatImages/mass.csv')
 halpha = pd.read_csv('Hamaps/halpha.csv')
-teste_ha = pd.read_csv('Hamaps/teste.csv')
+#halpha = pd.read_csv('Hamaps/teste.csv')
 
 
-#for i_gal in range(len(halpha)):
-for i_gal in range(len(teste_ha)):
+for i_gal in range(len(halpha)):
 #for i_gal in range(11,12):
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
     print(bcolors.FAIL + '-'*33 + 'OBJETO: %s' %halpha['num_gal'][i_gal] + '-'*33 + bcolors.ENDC)
@@ -206,11 +205,12 @@ for i_gal in range(len(teste_ha)):
     cx, cy = mom.centro_mass(df)
     tetha, exc, a, b = mom.param_elipse(df)
     df['raio'] = np.sqrt((df['x'] - cx)**2 + (df['y'] - cy)**2)
-    d = ((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2
-    e = ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2
+    d = ((df['x'] - cx)*np.cos(math.radians(90)+tetha) + (df['y'] - cy)*np.sin(math.radians(180)+tetha))**2
+    e = ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(math.radians(90)+tetha))**2
+    #d = ((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2
+    #e = ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2
     delta = ((1-exc)**2)*((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2 + ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2
-    df['a'] = (1/(1-exc))*np.sqrt(((1-exc)**2)*((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2 +
-            ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2)
+    df['a'] = np.sqrt(d + e/((1-exc)**2))
 
     gal = halpha['num_gal'][i_gal]
     tipo = halpha['type'][i_gal]
@@ -315,6 +315,8 @@ for i_gal in range(len(teste_ha)):
     plt.scatter(df3.x,df3.y, c='darkblue')
     plt.savefig('figures/teste_elipse/gal%s_elipses' %(gal))
     plt.close()
+    print('excentricidade = %f' %exc)
+    print('inclinacao = %f' %(math.degrees(tetha)))
 
 
 fim = time.time()
