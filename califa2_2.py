@@ -57,6 +57,8 @@ import matplotlib.mlab as mlab
 import scipy, pylab
 import math
 import momentos as mom
+from matplotlib.patches import Ellipse
+import matplotlib as mpl
 
 __author__ = 'pnovais'
 ini=time.time()
@@ -156,10 +158,12 @@ data_dir = '/home/pnovais/Dropbox/DOUTORADO/renew'
 age = pd.read_csv('Paty_at_flux__yx/age.csv')
 mass = pd.read_csv('PatImages/mass.csv')
 halpha = pd.read_csv('Hamaps/halpha.csv')
+teste_ha = pd.read_csv('Hamaps/teste.csv')
 
 
 #for i_gal in range(len(halpha)):
-for i_gal in range(1,2):
+for i_gal in range(len(teste_ha)):
+#for i_gal in range(11,12):
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
     print(bcolors.FAIL + '-'*33 + 'OBJETO: %s' %halpha['num_gal'][i_gal] + '-'*33 + bcolors.ENDC)
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
@@ -202,9 +206,11 @@ for i_gal in range(1,2):
     cx, cy = mom.centro_mass(df)
     tetha, exc, a, b = mom.param_elipse(df)
     df['raio'] = np.sqrt((df['x'] - cx)**2 + (df['y'] - cy)**2)
-    d = ((df['x'] - cx)*np.cos(tetha) +(df['y'] - cy)*np.sin(tetha))**2
-    e = ((df['x'] - cx)*np.sin(tetha) +(df['y'] - cy)*np.cos(tetha))**2
-    df['a'] = (1/(1-exc))*np.sqrt(d*(1/(1-exc))**2 + e)
+    d = ((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2
+    e = ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2
+    delta = ((1-exc)**2)*((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2 + ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2
+    df['a'] = (1/(1-exc))*np.sqrt(((1-exc)**2)*((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2 +
+            ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2)
 
     gal = halpha['num_gal'][i_gal]
     tipo = halpha['type'][i_gal]
@@ -290,6 +296,24 @@ for i_gal in range(1,2):
     plt.ylabel('Concentraction')
     plt.xlabel('Raio')
     plt.savefig('figures/perfis_radiais/gal%s_perfil_concentracao' %(gal))
+    plt.close()
+
+    mean = [ cx,  cy]
+    width = 2*a
+    height = 2*b
+    angle = math.degrees(tetha)
+    ell = mpl.patches.Ellipse(xy=mean, width=width, height=height, angle = 180+angle, alpha=0.2, color='black')
+    fig, ax = plt.subplots()
+
+    ax.add_patch(ell)
+    ax.set_aspect('equal')
+    ax.autoscale()
+    df2 = df.ix[(df.a > 5) & (df.a < 7)]
+    df3 = df.ix[(df.a > 25) & (df.a < 27)]
+    plt.scatter(df.x,df.y, c='red', s=10, alpha=0.7)
+    plt.scatter(df2.x,df2.y, c='blue')
+    plt.scatter(df3.x,df3.y, c='darkblue')
+    plt.savefig('figures/teste_elipse/gal%s_elipses' %(gal))
     plt.close()
 
 
