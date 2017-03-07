@@ -101,7 +101,7 @@ def param_elipse(df):
     #Excentricidade
     exc = 1 - (b/a)
     print('teste param')
-    return(tetha,exc)
+    return(tetha,exc,a,b)
 
 df = pd.read_csv('unit_test.csv')
 
