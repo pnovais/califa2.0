@@ -161,8 +161,8 @@ halpha = pd.read_csv('Hamaps/halpha.csv')
 #halpha = pd.read_csv('Hamaps/teste.csv')
 
 
-for i_gal in range(len(halpha)):
-#for i_gal in range(11,12):
+#for i_gal in range(len(halpha)):
+for i_gal in range(4,5):
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
     print(bcolors.FAIL + '-'*33 + 'OBJETO: %s' %halpha['num_gal'][i_gal] + '-'*33 + bcolors.ENDC)
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
@@ -274,7 +274,8 @@ for i_gal in range(len(halpha)):
     plt.setp(ax1.get_xticklabels(), visible=False)
 
     ax2 = plt.subplot(312, sharex=ax1)
-    plt.ylim([(raio_test.halpha_m.min()-(2e-17)),(raio_test.halpha_m.max()+(2e-17))])
+    plt.ylim([(raio_test.halpha_m.min()-(raio_test.err_halpha.max() + 1e-17)),
+             (raio_test.halpha_m.max()+(raio_test.err_halpha.max() + 1e-17))])
     ax2.errorbar(raio_test.raio_m, raio_test.halpha_m, yerr=raio_test.err_halpha, fmt='o')
     plt.plot(raio_test.raio_m, raio_test.halpha_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean Halpha')
@@ -319,6 +320,7 @@ for i_gal in range(len(halpha)):
     plt.close()
     print('excentricidade = %f' %exc)
     print('inclinacao = %f' %(math.degrees(tetha)))
+    print('#%d' %i_gal)
 
 
 fim = time.time()
