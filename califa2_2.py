@@ -183,9 +183,20 @@ mass = pd.read_csv('PatImages/mass.csv')
 halpha = pd.read_csv('Hamaps/halpha.csv')
 #halpha = pd.read_csv('Hamaps/teste.csv')
 
+hu1 = []
+hu2 = []
+hu3 = []
+hu4 = []
+hu5 = []
+hu6 = []
+hu7 = []
+hugal = []
+hutype = []
+
+df_hu = pd.DataFrame()
 
 for i_gal in range(len(halpha)):
-#for i_gal in range(4,5):
+#for i_gal in range(0,2):
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
     print(bcolors.FAIL + '-'*33 + 'OBJETO: %s' %halpha['num_gal'][i_gal] + '-'*33 + bcolors.ENDC)
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
@@ -288,7 +299,7 @@ for i_gal in range(len(halpha)):
     ax1 = plt.subplot(311)
     plt.title('%s - %s' %(gal, tipo))
     ax1.errorbar(a_test.a_m, a_test.age_m, yerr=a_test.err_age, fmt='o')
-#    plt.scatter(raio_test.raio_m, raio_test.age_m)
+    plt.scatter(a_test.a_m, a_test.age_m)
     plt.plot(a_test.a_m, a_test.age_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean Age')
     plt.setp(ax1.get_xticklabels(), visible=False)
@@ -296,14 +307,14 @@ for i_gal in range(len(halpha)):
     ax2 = plt.subplot(312, sharex=ax1)
     plt.ylim([(a_test.halpha_m.min()-(a_test.err_halpha.max() + 1e-17)),
              (a_test.halpha_m.max()+(a_test.err_halpha.max() + 1e-17))])
-    ax2.errorbar(a_test.raio_m, a_test.halpha_m, yerr=a_test.err_halpha, fmt='o')
-    plt.plot(a_test.raio_m, a_test.halpha_m, color='#7e2601',linewidth=1)
+    ax2.errorbar(a_test.a_m, a_test.halpha_m, yerr=a_test.err_halpha, fmt='o')
+    plt.plot(a_test.a_m, a_test.halpha_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean Halpha')
     plt.setp(ax2.get_xticklabels(), visible=False)
 
     ax3 = plt.subplot(313, sharex=ax2)
-    ax3.errorbar(a_test.raio_m, a_test.mass_m, yerr=a_test.err_mass, fmt='.')
-    plt.plot(a_test.raio_m, a_test.mass_m, color='#7e2601',linewidth=1)
+    ax3.errorbar(a_test.a_m, a_test.mass_m, yerr=a_test.err_mass, fmt='.')
+    plt.plot(a_test.a_m, a_test.mass_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean mass density')
     plt.xlabel('Semi-eixo a')
     plt.savefig('figures/perfis_eliptico/gal%s_perfis_elip' %(gal))
@@ -340,6 +351,30 @@ for i_gal in range(len(halpha)):
     print('inclinacao = %f' %(math.degrees(tetha)))
     print('#%d' %i_gal)
 
+    hu = mom.hu_moments(df)
+    hu1.append(hu[0])
+    hu2.append(hu[1])
+    hu3.append(hu[2])
+    hu4.append(hu[3])
+    hu5.append(hu[4])
+    hu6.append(hu[5])
+    hu7.append(hu[6])
+    hugal.append(gal)
+    hutype.append(tipo)
+
+
+df_hu['gal'] = hugal
+df_hu['tipo'] = hutype
+df_hu['hu1'] = hu1
+df_hu['hu2'] = hu2
+df_hu['hu3'] = hu3
+df_hu['hu4'] = hu4
+df_hu['hu5'] = hu5
+df_hu['hu6'] = hu6
+df_hu['hu7'] = hu7
+#df_hu['hu1','hu2','hu3','hu4','hu5','hu6','hu7'] = hu1
+
+df_hu.to_csv('hu_moments_gal.csv', index=False)
 
 fim = time.time()
 time_proc = fim - ini
