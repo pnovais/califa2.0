@@ -168,13 +168,13 @@ def plots(df,param1,param2,param3):
     plt.title(gal)
     plt.ylabel('Concentraction')
     plt.xlabel(param2)
-    plt.savefig('figures/concentracao/gal%s_concentration2_%s' %(param1,param2))
+    plt.savefig('figures/concentracao/gal%s_concentration_%s' %(param1,param2))
     plt.close()
 
     plt.figure()
     plt.title('Distribuicao C(%s)- %s' %(param2,param1))
     df.ix[:,0].hist(bins=100)
-    plt.savefig('figures/concentracao/gal%s_hist2_%s' %(param1,param2))
+    plt.savefig('figures/concentracao/gal%s_hist_%s' %(param1,param2))
     plt.close()
 
 data_dir = '/home/pnovais/Dropbox/DOUTORADO/renew'
@@ -184,8 +184,8 @@ halpha = pd.read_csv('Hamaps/halpha.csv')
 #halpha = pd.read_csv('Hamaps/teste.csv')
 
 
-#for i_gal in range(len(halpha)):
-for i_gal in range(4,5):
+for i_gal in range(len(halpha)):
+#for i_gal in range(4,5):
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
     print(bcolors.FAIL + '-'*33 + 'OBJETO: %s' %halpha['num_gal'][i_gal] + '-'*33 + bcolors.ENDC)
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
@@ -246,33 +246,12 @@ for i_gal in range(4,5):
     plots(mass_test,gal,'Mass_density',1)
     plots(ha_test,gal,'Halpha',1)
 
-
-    plt.figure()
-    plt.title('Distribuicao C(age)- %s' %gal)
-    age_test.age.hist(bins=100)
-    plt.savefig('figures/concentracao/gal%s_hist_age' %(gal))
-    plt.close()
-
-
-    plt.figure()
-    mass_test.mass.hist(bins=100)
-    plt.title('Distribuicao C(mass) - %s' %gal)
-    plt.savefig('figures/concentracao/gal%s_hist_mass' %(gal))
-    plt.close()
-
-
-    plt.figure()
-    ha_test.halpha.hist(bins=100)
-    plt.title('Distribuicao C(halpha) - %s' %gal)
-    plt.savefig('figures/concentracao/gal%s_hist_halpha' %(gal))
-    plt.close()
-
+#perfis circulares
     plt.figure(1)
     plt.title(gal)
     ax1 = plt.subplot(311)
     plt.title('%s - %s' %(gal, tipo))
     ax1.errorbar(raio_test.raio_m, raio_test.age_m, yerr=raio_test.err_age, fmt='o')
-#    plt.scatter(raio_test.raio_m, raio_test.age_m)
     plt.plot(raio_test.raio_m, raio_test.age_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean Age')
     plt.setp(ax1.get_xticklabels(), visible=False)
@@ -290,7 +269,7 @@ for i_gal in range(4,5):
     plt.plot(raio_test.raio_m, raio_test.mass_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean mass density')
     plt.xlabel('Raio')
-    plt.savefig('figures/perfis_radiais/gal%s_perfis' %(gal))
+    plt.savefig('figures/perfis_circular/gal%s_perfis_circ' %(gal))
     plt.close(1)
 
 
@@ -300,18 +279,53 @@ for i_gal in range(4,5):
     plt.title(gal)
     plt.ylabel('Concentraction')
     plt.xlabel('Raio')
-    plt.savefig('figures/perfis_radiais/gal%s_perfil_concentracao' %(gal))
+    plt.savefig('figures/perfis_circular/gal%s_perfil_concentracao_circ' %(gal))
     plt.close()
 
-    mean = [ cx,  cy]
+#perfis elipticos
+    plt.figure(1)
+    plt.title(gal)
+    ax1 = plt.subplot(311)
+    plt.title('%s - %s' %(gal, tipo))
+    ax1.errorbar(a_test.a_m, a_test.age_m, yerr=a_test.err_age, fmt='o')
+#    plt.scatter(raio_test.raio_m, raio_test.age_m)
+    plt.plot(a_test.a_m, a_test.age_m, color='#7e2601',linewidth=1)
+    plt.ylabel('Mean Age')
+    plt.setp(ax1.get_xticklabels(), visible=False)
+
+    ax2 = plt.subplot(312, sharex=ax1)
+    plt.ylim([(a_test.halpha_m.min()-(a_test.err_halpha.max() + 1e-17)),
+             (a_test.halpha_m.max()+(a_test.err_halpha.max() + 1e-17))])
+    ax2.errorbar(a_test.raio_m, a_test.halpha_m, yerr=a_test.err_halpha, fmt='o')
+    plt.plot(a_test.raio_m, a_test.halpha_m, color='#7e2601',linewidth=1)
+    plt.ylabel('Mean Halpha')
+    plt.setp(ax2.get_xticklabels(), visible=False)
+
+    ax3 = plt.subplot(313, sharex=ax2)
+    ax3.errorbar(a_test.raio_m, a_test.mass_m, yerr=a_test.err_mass, fmt='.')
+    plt.plot(a_test.raio_m, a_test.mass_m, color='#7e2601',linewidth=1)
+    plt.ylabel('Mean mass density')
+    plt.xlabel('Semi-eixo a')
+    plt.savefig('figures/perfis_eliptico/gal%s_perfis_elip' %(gal))
+    plt.close(1)
+
+
+    plt.figure()
+    plt.scatter(a_test.a_m, a_test.conc_a)
+    plt.plot(a_test.a_m, a_test.conc_a, color='#7e2601',linewidth=1)
+    plt.title(gal)
+    plt.ylabel('Concentraction')
+    plt.xlabel('Semi-eixo a')
+    plt.savefig('figures/perfis_eliptico/gal%s_perfil_concentracao_elip' %(gal))
+    plt.close()
+
+    mean = [cx,cy]
     width = 2*a
     height = 2*b
     angle = math.degrees(tetha)
     ell = mpl.patches.Ellipse(xy=mean, width=width, height=height, angle = 180+angle, alpha=0.2, color='black')
     fig, ax = plt.subplots()
-
     ax.add_patch(ell)
-    #ax.set_aspect('equal')
     ax.autoscale()
     df2 = df.ix[(df.a > a/3) & (df.a < (a/3 + 2))]
     df3 = df.ix[(df.a > a/2) & (df.a < (a/2 + 2))]
@@ -320,7 +334,7 @@ for i_gal in range(4,5):
     plt.scatter(df2.x,df2.y, c='blue')
     plt.scatter(df3.x,df3.y, c='purple')
     plt.scatter(df4.x, df4.y, c='green')
-    plt.savefig('figures/teste_elipse/gal%s_elipses' %(gal))
+    plt.savefig('figures/ajuste_elipse/gal%s_elipses' %(gal))
     plt.close()
     print('excentricidade = %f' %exc)
     print('inclinacao = %f' %(math.degrees(tetha)))
