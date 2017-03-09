@@ -105,6 +105,8 @@ def Z(df0,gal,Conc,ordem):
     err_dens = []
     idade = []
     err_age = []
+    semia = []
+    err_semia = []
     conc = []
 
     df = df0.sort_values(by=ordem)
@@ -126,6 +128,8 @@ def Z(df0,gal,Conc,ordem):
         err_dens.append(df1['mass'].std())
         idade.append(df1['age'].mean())
         err_age.append(df1['age'].std())
+        semia.append(df1['a'].mean())
+        err_semia.append(df1['a'].std())
         conc.append(C(df1))
         j=j+1
     df_Z[ordem] = propr
@@ -138,6 +142,8 @@ def Z(df0,gal,Conc,ordem):
     df_Z['err_mass'] = err_dens
     df_Z['halpha_m'] = halpha
     df_Z['err_halpha'] = err_halpha
+    df_Z['a_m'] = semia
+    df_Z['err_a'] = err_semia
     df_Z[Conc] = conc
 #    print(j,cx)
 #    print(len(df_Z))
@@ -207,9 +213,10 @@ for i_gal in range(4,5):
     df['raio'] = np.sqrt((df['x'] - cx)**2 + (df['y'] - cy)**2)
     #d = ((df['x'] - cx)*np.cos(math.radians(90)+tetha) + (df['y'] - cy)*np.sin(math.radians(180)+tetha))**2
     #e = ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(math.radians(90)+tetha))**2
-    d = ((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2
-    e = ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2
-    delta = ((1-exc)**2)*((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2 + ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2
+    acres = math.radians(180)
+    d = ((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(-tetha+acres))**2
+    e = ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(-tetha+acres))**2
+    #delta = ((1-exc)**2)*((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2 + ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2
     df['a'] = np.sqrt(d + e/((1-exc)**2))
 
     gal = halpha['num_gal'][i_gal]
@@ -219,6 +226,7 @@ for i_gal in range(4,5):
     mass_test = Z(df,gal,'conc_mass','mass')
     ha_test = Z(df,gal,'conc_ha','halpha')
     raio_test = Z(df,gal,'conc_raio', 'raio')
+    a_test = Z(df,gal, 'conc_a', 'a')
 
     plt.figure()
     plt.scatter(age_test.age, age_test.conc_age)
@@ -313,9 +321,9 @@ for i_gal in range(4,5):
     df3 = df.ix[(df.a > a/2) & (df.a < (a/2 + 2))]
     df4 = df.ix[(df.a > a) & (df.a < (a + 2))]
     plt.scatter(df.x,df.y, c='red', s=10, alpha=0.7)
-    plt.scatter(df2.x,df2.y, c='royalblue')
-    plt.scatter(df3.x,df3.y, c='blue')
-    plt.scatter(df4.x, df4.y, c='navy')
+    plt.scatter(df2.x,df2.y, c='blue')
+    plt.scatter(df3.x,df3.y, c='purple')
+    plt.scatter(df4.x, df4.y, c='green')
     plt.savefig('figures/teste_elipse/gal%s_elipses' %(gal))
     plt.close()
     print('excentricidade = %f' %exc)
