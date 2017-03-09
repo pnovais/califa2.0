@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+  # -*- coding: utf-8 -*-
 
 '''
 Programa para trabalhar os dados do CALIFA
@@ -76,14 +76,16 @@ class bcolors:
     PINK = '\033[35m'
     YELLOWs = '\033[33m'
 
-#definindo a funcao que ira ler as imagens fits
+
 def get_image(f_sdss):
+    '''definindo a funcao que ira ler as imagens fits'''
     img = f_sdss[0].data
     return img
 
-#funcao que calcula a Concentracao de uma populacao, usando a definicao
-#de Conselice(2014) http://iopscience.iop.org/article/10.1086/375001/pdf
 def C(df):
+    '''funcao que calcula a Concentracao de uma populacao, usando a definicao
+    de Conselice(2014) http://iopscience.iop.org/article/10.1086/375001/pdf
+    '''
     a=1
     radius=df.sort_values('raio')
     r20=radius.iat[int(0.2*len(df)),-1]
@@ -91,9 +93,9 @@ def C(df):
     Conc = 5*np.log((r80/r20))
     return Conc
 
-#definindo uma funcao para ordenar a propridade de interesse
-#dividi-lo em bins de igual tamanho e calcular alguns parametros
 def Z(df0,gal,Conc,ordem):
+    '''definindo uma funcao para ordenar a propridade de interesse
+    dividindo-o em bins de igual tamanho e calculando alguns parametros'''
     df_Z = pd.DataFrame()
     propr = []
     err_prop = []
@@ -145,13 +147,10 @@ def Z(df0,gal,Conc,ordem):
     df_Z['a_m'] = semia
     df_Z['err_a'] = err_semia
     df_Z[Conc] = conc
-#    print(j,cx)
-#    print(len(df_Z))
-    #print(df_Z.head())
     return df_Z
 
-
 def obtendo_dados(img,tipo):
+    '''função para leitura do arquivo fits, criando um dataframe com os dados'''
     df = pd.DataFrame()
     nrows, ncols = img.shape
     xx, yy = np.meshgrid( *np.ogrid[:ncols, :nrows] )
@@ -159,6 +158,24 @@ def obtendo_dados(img,tipo):
     temp = pd.DataFrame(table, columns=['x','y',tipo])
     df = pd.concat([df,temp], axis=1)
     return(df)
+
+def plots(df,param1,param2,param3):
+    '''Função para plotar os gráficos'''
+    plt.figure()
+    incr = param3*(df.ix[:,0].mean())
+    plt.xlim([(df.ix[:,0].min()-(incr)),(df.ix[:,0].max()+(incr))])
+    plt.scatter(df.ix[:,0], df.ix[:,12])
+    plt.title(gal)
+    plt.ylabel('Concentraction')
+    plt.xlabel(param2)
+    plt.savefig('figures/concentracao/gal%s_concentration2_%s' %(param1,param2))
+    plt.close()
+
+    plt.figure()
+    plt.title('Distribuicao C(%s)- %s' %(param2,param1))
+    df.ix[:,0].hist(bins=100)
+    plt.savefig('figures/concentracao/gal%s_hist2_%s' %(param1,param2))
+    plt.close()
 
 data_dir = '/home/pnovais/Dropbox/DOUTORADO/renew'
 age = pd.read_csv('Paty_at_flux__yx/age.csv')
@@ -211,12 +228,9 @@ for i_gal in range(4,5):
     cx, cy = mom.centro_mass(df)
     tetha, exc, a, b = mom.param_elipse(df)
     df['raio'] = np.sqrt((df['x'] - cx)**2 + (df['y'] - cy)**2)
-    #d = ((df['x'] - cx)*np.cos(math.radians(90)+tetha) + (df['y'] - cy)*np.sin(math.radians(180)+tetha))**2
-    #e = ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(math.radians(90)+tetha))**2
     acres = math.radians(180)
     d = ((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(-tetha+acres))**2
     e = ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(-tetha+acres))**2
-    #delta = ((1-exc)**2)*((df['x'] - cx)*np.cos(tetha) + (df['y'] - cy)*np.sin(tetha))**2 + ((df['x'] - cx)*np.sin(tetha) + (df['y'] - cy)*np.cos(tetha))**2
     df['a'] = np.sqrt(d + e/((1-exc)**2))
 
     gal = halpha['num_gal'][i_gal]
@@ -228,13 +242,10 @@ for i_gal in range(4,5):
     raio_test = Z(df,gal,'conc_raio', 'raio')
     a_test = Z(df,gal, 'conc_a', 'a')
 
-    plt.figure()
-    plt.scatter(age_test.age, age_test.conc_age)
-    plt.title(gal)
-    plt.ylabel('Concentraction')
-    plt.xlabel('Age')
-    plt.savefig('figures/concentracao/gal%s_concentration_age' %(gal))
-    plt.close()
+    plots(age_test,gal,'Age',0)
+    plots(mass_test,gal,'Mass_density',1)
+    plots(ha_test,gal,'Halpha',1)
+
 
     plt.figure()
     plt.title('Distribuicao C(age)- %s' %gal)
@@ -242,13 +253,6 @@ for i_gal in range(4,5):
     plt.savefig('figures/concentracao/gal%s_hist_age' %(gal))
     plt.close()
 
-    plt.figure()
-    plt.scatter(mass_test.mass, mass_test.conc_mass)
-    plt.title(gal)
-    plt.ylabel('Concentraction')
-    plt.xlabel('Mass density')
-    plt.savefig('figures/concentracao/gal%s_concentration_mass' %(gal))
-    plt.close()
 
     plt.figure()
     mass_test.mass.hist(bins=100)
@@ -256,14 +260,6 @@ for i_gal in range(4,5):
     plt.savefig('figures/concentracao/gal%s_hist_mass' %(gal))
     plt.close()
 
-    plt.figure()
-    plt.xlim([(ha_test.halpha.min()-(2e-17)),(ha_test.halpha.max()+(2e-17))])
-    plt.scatter(ha_test.halpha, ha_test.conc_ha)
-    plt.title(gal)
-    plt.ylabel('Concentraction')
-    plt.xlabel('Halpha')
-    plt.savefig('figures/concentracao/gal%s_concentration_halpha' %(gal))
-    plt.close()
 
     plt.figure()
     ha_test.halpha.hist(bins=100)
