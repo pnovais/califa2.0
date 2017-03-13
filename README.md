@@ -64,9 +64,9 @@ Para cada propriedade Z (idade, Halpha ou densidade de massa), calcula-se a conc
 * Plots de C(Z)
 
 
-### Simulações
+### Perfis
 
-Para maiores detalhes, veja [Simulações.](https://github.com/pnovais/califa2.0/wiki/Simula%C3%A7%C3%B5es)
+Para maiores detalhes, veja [Perfis](https://github.com/pnovais/califa2.0/wiki/Simula%C3%A7%C3%B5es)
 
 1a fase: 
 * galaxias circulares
@@ -75,6 +75,11 @@ Para maiores detalhes, veja [Simulações.](https://github.com/pnovais/califa2.0
 * calculo dos parametros
 
 
+2a fase - perfil elíptico: 
+* galaxias elípticas
+* pixelização (x,y,a), com *a* sendo o semi-eixo maior da elipse
+* Z = Z(r) + sigma
+* Perfil dos parâmetros, em função do semi-eixo maior a.
 ***
 
 ### Primeiros testes com a amostra de controle
