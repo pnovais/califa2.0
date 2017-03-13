@@ -98,6 +98,11 @@ def param_elipse(df):
     exc = 1 - (b/a)
     return(tetha,exc,a,b)
 
+def equivalent_radius(df):
+    Nt = len(df)
+    Re = np.sqrt(Nt/np.pi)
+    return Re
+
 #df = pd.read_csv('unit_test.csv')
 
 #y = centro_mass(df)

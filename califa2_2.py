@@ -1,4 +1,4 @@
-  # -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 '''
 Programa para trabalhar os dados do CALIFA
@@ -19,9 +19,9 @@ Versão 2.2
 24-fevereiro-2017
 
 -Adição de uma função para o cálculo da excentricidade da elipse e
-ângulo de inclinação, para cálculo dos perfis radiais elípticos
+ângulo de inclinação, utilizadas pra cálculo dos perfis radiais elípticos
 
--Normalização dos raios médios
+-Normalização dos raios médios e Semi-eixo maior pelo equivalent_radius
 -Adição dos std nas medidas
 
 -------------------
@@ -31,6 +31,9 @@ Versão 2.2.1
 -Cálculo de momentos, parâmetros da elipse e centróides através de módulos a parte
 -Cálculo dos perfis radiais elipticos
 
+-------------------
+Versão 2.2.2
+-Foco nas análises de Halpha
 
 '''
 
@@ -149,33 +152,32 @@ def Z(df0,gal,Conc,ordem):
     df_Z[Conc] = conc
     return df_Z
 
-def obtendo_dados(img,tipo):
+def obtendo_dados(img,param):
     '''função para leitura do arquivo fits, criando um dataframe com os dados'''
     df = pd.DataFrame()
     nrows, ncols = img.shape
     xx, yy = np.meshgrid( *np.ogrid[:ncols, :nrows] )
     table = np.column_stack(( xx.flatten(), yy.flatten(), img.flatten() ))
-    temp = pd.DataFrame(table, columns=['x','y',tipo])
+    temp = pd.DataFrame(table, columns=['x','y',param])
     df = pd.concat([df,temp], axis=1)
     return(df)
 
-def plots(df,param1,param2,param3):
+def plots(df,param1,param2,param3,diretorio):
     '''Função para plotar os gráficos'''
     plt.figure()
     incr = param3*(df.ix[:,0].mean())
     plt.xlim([(df.ix[:,0].min()-(incr)),(df.ix[:,0].max()+(incr))])
     plt.scatter(df.ix[:,0], df.ix[:,12])
-    plt.title(gal)
+    plt.title(gal+' '+tipo)
     plt.ylabel('Concentraction')
     plt.xlabel(param2)
-    plt.savefig('figures/concentracao/gal%s_concentration_%s' %(param1,param2))
+    plt.savefig('figures/%s/gal_%s_concentration_%s' %(diretorio,param1,param2))
     plt.close()
-
-    plt.figure()
-    plt.title('Distribuicao C(%s)- %s' %(param2,param1))
-    df.ix[:,0].hist(bins=100)
-    plt.savefig('figures/concentracao/gal%s_hist_%s' %(param1,param2))
-    plt.close()
+#    plt.figure()
+#    plt.title('Distribuicao C(%s)- %s' %(param2,param1))
+#    df.ix[:,0].hist(bins=100)
+#    plt.savefig('figures/%s/gal%s_hist_%s' %(diretorio,param1,param2))
+#    plt.close()
 
 data_dir = '/home/pnovais/Dropbox/DOUTORADO/renew'
 age = pd.read_csv('Paty_at_flux__yx/age.csv')
@@ -194,7 +196,6 @@ hugal = []
 hutype = []
 
 df_hu = pd.DataFrame()
-
 for i_gal in range(len(halpha)):
 #for i_gal in range(0,2):
     print(bcolors.FAIL +'-'*79+ bcolors.ENDC)
@@ -235,7 +236,7 @@ for i_gal in range(len(halpha)):
     df0 = pd.merge(df_age,df_mass)
     df1 = pd.merge(df0,df_ha, how='inner')
     df = df1[(df1.age > 0.0) & (df1.mass > 0.0) & (df1.halpha > 0.0)]
-
+    Re = mom.equivalent_radius(df)
     cx, cy = mom.centro_mass(df)
     tetha, exc, a, b = mom.param_elipse(df)
     df['raio'] = np.sqrt((df['x'] - cx)**2 + (df['y'] - cy)**2)
@@ -253,43 +254,43 @@ for i_gal in range(len(halpha)):
     raio_test = Z(df,gal,'conc_raio', 'raio')
     a_test = Z(df,gal, 'conc_a', 'a')
 
-    plots(age_test,gal,'Age',0)
-    plots(mass_test,gal,'Mass_density',1)
-    plots(ha_test,gal,'Halpha',1)
+    plots(age_test,gal,'Age',0,'concentracao')
+    plots(mass_test,gal,'Mass_density',1,'concentracao')
+    plots(ha_test,gal,'Halpha',1,'concentracao')
 
 #perfis circulares
     plt.figure(1)
     plt.title(gal)
     ax1 = plt.subplot(311)
     plt.title('%s - %s' %(gal, tipo))
-    ax1.errorbar(raio_test.raio_m, raio_test.age_m, yerr=raio_test.err_age, fmt='o')
-    plt.plot(raio_test.raio_m, raio_test.age_m, color='#7e2601',linewidth=1)
+    ax1.errorbar(raio_test.raio_m/Re, raio_test.age_m, yerr=raio_test.err_age, fmt='o')
+    plt.plot(raio_test.raio_m/Re, raio_test.age_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean Age')
     plt.setp(ax1.get_xticklabels(), visible=False)
 
     ax2 = plt.subplot(312, sharex=ax1)
     plt.ylim([(raio_test.halpha_m.min()-(raio_test.err_halpha.max() + 1e-17)),
              (raio_test.halpha_m.max()+(raio_test.err_halpha.max() + 1e-17))])
-    ax2.errorbar(raio_test.raio_m, raio_test.halpha_m, yerr=raio_test.err_halpha, fmt='o')
-    plt.plot(raio_test.raio_m, raio_test.halpha_m, color='#7e2601',linewidth=1)
-    plt.ylabel('Mean Halpha')
+    ax2.errorbar(raio_test.raio_m/Re, raio_test.halpha_m, yerr=raio_test.err_halpha, fmt='o')
+    plt.plot(raio_test.raio_m/Re, raio_test.halpha_m, color='#7e2601',linewidth=1)
+    plt.ylabel(r'Mean $H\alpha$')
     plt.setp(ax2.get_xticklabels(), visible=False)
 
     ax3 = plt.subplot(313, sharex=ax2)
-    ax3.errorbar(raio_test.raio_m, raio_test.mass_m, yerr=raio_test.err_mass, fmt='.')
-    plt.plot(raio_test.raio_m, raio_test.mass_m, color='#7e2601',linewidth=1)
+    ax3.errorbar(raio_test.raio_m/Re, raio_test.mass_m, yerr=raio_test.err_mass, fmt='.')
+    plt.plot(raio_test.raio_m/Re, raio_test.mass_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean mass density')
-    plt.xlabel('Raio')
+    plt.xlabel('Radius/Re')
     plt.savefig('figures/perfis_circular/gal%s_perfis_circ' %(gal))
     plt.close(1)
 
 
     plt.figure()
-    plt.scatter(raio_test.raio_m, raio_test.conc_raio)
-    plt.plot(raio_test.raio_m, raio_test.conc_raio, color='#7e2601',linewidth=1)
+    plt.scatter(raio_test.raio_m/Re, raio_test.conc_raio)
+    plt.plot(raio_test.raio_m/Re, raio_test.conc_raio, color='#7e2601',linewidth=1)
     plt.title(gal)
     plt.ylabel('Concentraction')
-    plt.xlabel('Raio')
+    plt.xlabel('Raio/Re')
     plt.savefig('figures/perfis_circular/gal%s_perfil_concentracao_circ' %(gal))
     plt.close()
 
@@ -298,35 +299,34 @@ for i_gal in range(len(halpha)):
     plt.title(gal)
     ax1 = plt.subplot(311)
     plt.title('%s - %s' %(gal, tipo))
-    ax1.errorbar(a_test.a_m, a_test.age_m, yerr=a_test.err_age, fmt='o')
-    plt.scatter(a_test.a_m, a_test.age_m)
-    plt.plot(a_test.a_m, a_test.age_m, color='#7e2601',linewidth=1)
+    ax1.errorbar(a_test.a_m/Re, a_test.age_m, yerr=a_test.err_age, fmt='o')
+    plt.scatter(a_test.a_m/Re, a_test.age_m)
+    plt.plot(a_test.a_m/Re, a_test.age_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean Age')
     plt.setp(ax1.get_xticklabels(), visible=False)
 
     ax2 = plt.subplot(312, sharex=ax1)
     plt.ylim([(a_test.halpha_m.min()-(a_test.err_halpha.max() + 1e-17)),
              (a_test.halpha_m.max()+(a_test.err_halpha.max() + 1e-17))])
-    ax2.errorbar(a_test.a_m, a_test.halpha_m, yerr=a_test.err_halpha, fmt='o')
-    plt.plot(a_test.a_m, a_test.halpha_m, color='#7e2601',linewidth=1)
+    ax2.errorbar(a_test.a_m/Re, a_test.halpha_m, yerr=a_test.err_halpha, fmt='o')
+    plt.plot(a_test.a_m/Re, a_test.halpha_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean Halpha')
     plt.setp(ax2.get_xticklabels(), visible=False)
 
     ax3 = plt.subplot(313, sharex=ax2)
-    ax3.errorbar(a_test.a_m, a_test.mass_m, yerr=a_test.err_mass, fmt='.')
-    plt.plot(a_test.a_m, a_test.mass_m, color='#7e2601',linewidth=1)
+    ax3.errorbar(a_test.a_m/Re, a_test.mass_m, yerr=a_test.err_mass, fmt='.')
+    plt.plot(a_test.a_m/Re, a_test.mass_m, color='#7e2601',linewidth=1)
     plt.ylabel('Mean mass density')
-    plt.xlabel('Semi-eixo a')
+    plt.xlabel('Semi-eixo a/Re')
     plt.savefig('figures/perfis_eliptico/gal%s_perfis_elip' %(gal))
     plt.close(1)
 
-
     plt.figure()
-    plt.scatter(a_test.a_m, a_test.conc_a)
-    plt.plot(a_test.a_m, a_test.conc_a, color='#7e2601',linewidth=1)
+    plt.scatter(a_test.a_m/Re, a_test.conc_a)
+    plt.plot(a_test.a_m/Re, a_test.conc_a, color='#7e2601',linewidth=1)
     plt.title(gal)
     plt.ylabel('Concentraction')
-    plt.xlabel('Semi-eixo a')
+    plt.xlabel('Semi-eixo a/Re')
     plt.savefig('figures/perfis_eliptico/gal%s_perfil_concentracao_elip' %(gal))
     plt.close()
 
@@ -361,6 +361,35 @@ for i_gal in range(len(halpha)):
     hu7.append(hu[6])
     hugal.append(gal)
     hutype.append(tipo)
+
+    #graficos apenas de Halpha
+    plt.figure(1) #Imagem em Ha
+    plt.clf()
+    cx = cubehelix.cmap(reverse=True, start=0., rot=-0.5)
+    plt.axis([0,77,0,72])
+    plt.xlabel('X',fontweight='bold')
+    plt.ylabel('Y',fontweight='bold')
+    imgplot = plt.imshow(100*np.log10(img/255), cmap=cx)
+    titulo='Halpha Maps - Galaxy %s %s' %(halpha['num_gal'][i_gal],tipo)
+    plt.title(titulo)
+    #plt.colorbar()
+    figura = 'figures/Ha_analysis/gal_%s' %halpha['num_gal'][i_gal]
+    plt.savefig(figura)
+
+    plots(ha_test,gal,'Halpha',1,'Ha_analysis') #C(Z)
+
+    plt.figure() #Z(a)
+    plt.ylim([(a_test.halpha_m.min()-(a_test.err_halpha.max() + 1e-17)),
+             (a_test.halpha_m.max()+(a_test.err_halpha.max() + 1e-17))])
+    plt.errorbar(a_test.a_m/Re, a_test.halpha_m, yerr=a_test.err_halpha, fmt='o')
+    plt.plot(a_test.a_m/Re, a_test.halpha_m, color='#7e2601',linewidth=1)
+    plt.ylabel('Mean Halpha')
+    plt.xlabel(('Semi-eixo a/Re'))
+    titulo2='%s %s' %(halpha['num_gal'][i_gal],tipo)
+    plt.title(titulo2)
+    plt.savefig('figures/Ha_analysis/gal_%s_perfis_elip' %(gal))
+
+
 
 
 df_hu['gal'] = hugal
