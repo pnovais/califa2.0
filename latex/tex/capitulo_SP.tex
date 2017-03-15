@@ -1,0 +1,156 @@
+\chapter{Populações Estelares e Parâmetros de Análise}
+\label{cap02}
+
+Nas seguintes seções, serão descritos a definição de Populações Estelares utilizada por este trabalho, bem como os parâmetros utilizados na análise.
+
+\section{Nossa definição}
+Inicialmente, todos os píxeis de cada galáxia foi ordenado pelo idade e então definidos 4 \textit{bins} com a mesma quantidade de píxeis em cada \textit{bin}. Para o propósito desse trabalho, cada um desses bins foi considerado como uma População Estelar. Em outras palavras, as idades foram divididas em quartis e cada quartil foi considerado uma população estelar, onde o primeiro quartil de população estelar (P1) contém os píxeis mais jovens, o último quartil (P4) abrange os píxeis mais velhos e, por consequência, os demais quartis (P2 e P3) contêm os píxeis de idade intermediária.
+
+Cada população é representada por uma imagem binária I(x,y), onde I(x,y) será 1 se o píxel (x,y) pertencer à população e 0 no caso contrário. Conjuntos similares de 4 mapas binários podem ser produzidos para outras quantidades de interesse, tais como a metalicidade ou a emissão em $H\alpha$. A quantidade de populações estelares, i.e 4 populações, é uma número arbitrário mas foi adotado de modo a ter dois \textit{bins} representando propriedades físicas com valores extremos (máximos e mínimos) e dois \textit{bins} com valores intermedíarios.
+
+A idade de cada píxel foi obtida com síntese espectral a partir dos cubos de dados do CALIFA.
+
+\section{Momentos Invariantes de Imagem}
+\label{moments}
+Momentos são quantidades úteis para decrever características significantes de uma imagem, como sua forma, centro de gravidade, semi-eixos e orientação do objeto. Momentos permitem uma reconstrução aproximada do objeto contido em uma imagem \citep{kilian, flusser09}.
+
+Para uma imagem, o momento de ordem (p+q) é definido como
+\begin{equation}
+M_{pq} =\sum_{i=1}^{n_x} \sum_{j=1}^{n_y} x_{i}^p y_{j}^q I(x_i,y_j)
+\end{equation}
+onde $n_x$ e $n_y$ são as quantidades de píxeis nas direções \textit{x} e \textit{y} e \textit{I(x,y)} será 1 se o píxel $(x_i,y_i)$ pertencer ao objeto de interesse, do contrário será 0. A partir dessa primeira definição de momentos, a área ocupada pelo objeto e seu centróide são dados por
+\begin{equation}
+A = M_{00} 
+\end{equation}
+\begin{equation}
+\{\bar{x},\bar{y}\} = \{\frac{M_{10}}{M_{00}}, \frac{M_{01}}{M_{00}} \}
+\end{equation}
+(note que o valor da área \textit{A} é a quantidade de píxeis da população considerada com I(x,y)=1).
+
+Uma vez que os momentos assim definidos são afetados por traslação, rotação ou variações de escalas, é útil definir os chamados momentos centrais, $\mu_{pq}$, que são invariantes por translação e são calculados através de
+\begin{equation}
+\mu_{pq}= \sum_{i=1}^{nx} \sum_{j=1}^{ny} (x_i - \bar{x})^p (y_j - \bar{y})^ q .
+\end{equation}
+
+\subsection{Subprodutos - Parâmetros Geométricos}
+Os momentos não possuem um significado geométrico direto, entretanto podemos utilizá-los para derivar alguns  parâmetros geométricos interessantes. Utilizando os momentos centrais podemos ajustar uma elipse \`a imagem e determinar seus parâmetros (semi-eixos \textit{a} e \textit{b}, elipticidade $\epsilon$ e ângulo de posição $\theta$):
+\begin{equation}
+a = \left(\frac{2(\mu_{20}+\mu_{02}) + \sqrt{(\mu_{20}-\mu_{02})^2 + 4\mu_{11}^2}}{\mu_{00}}\right)^{1/2}
+\end{equation}
+
+\begin{equation}
+b = \left(\frac{2(\mu_{20}+\mu_{02}) - \sqrt{(\mu_{20}-\mu_{02})^2 + 4\mu_{11}^2}}{\mu_{00}}\right)^{1/2}
+\end{equation}
+
+\begin{equation}
+\epsilon=1 -\frac{b}{a}
+\end{equation}
+
+\begin{equation}
+\theta = \frac{1}{2}\arctan (\frac{2\mu_{11}}{\mu_{20} - \mu_{02}})
+\end{equation}
+
+Além desses parâmetros geométricos, com os momentos de segunda ordem, i.e, $p+q=2$, é possível derivar alguns fatores de forma, que são muito importantes na caracterização da forma de objetos, independente de seus tamanhos \citep{shapefactor}. Dentre os fatores de forma, foram escolhidos os seguintes:
+
+
+-\textbf{Fator de Compacticidade}: escrito como função dos segundos momentos $\mu_{20}$ e $\mu_{02}$, este fator de forma mede a relação entre a área do objeto e o perímetro de uma forma circular cujo raio seja igual a soma quadrática dos segundos momentos do objeto em questão, dado por
+\begin{equation}
+f_{comp} = \frac{{\mu_{00}}^2}{\pi ({\mu_{20}}^2 + {\mu_{02}}^2)}
+\end{equation}
+
+onde $f_{comp}$ será igual a 1 para um objeto circular e diferente de 1 para um objeto menos compacto.
+ 
+-\textbf{Fator de Elongação}: o fator de elongação é definido como a raíz quadrada da razão entre os segundos momentos do objeto em torno de seu eixo principal, i.e., os momentos $\mu_{20}$ e $\mu_{02}$.
+
+\begin{equation}
+f_{elong} = \sqrt{\frac{\mu_{02}}{\mu_{20}}}
+\end{equation}
+e será igual a 1 para um círculo, menor que 1 para um objeto prolato e maior do que 1 se o objeto for oblato.
+
+\section{Outros Parâmetros}
+Além dos parâmetros mencionados acima, ainda, os seguintes parâmetros serão utilizados na análise dos dados.
+
+\subsection{Raio médio e variância}
+Seja $(x_i,y_j)$, com  $~i=1,...,nx$ e $~j=1,...,ny$, um conjunto de píxeis associados com uma dada população estelar (PS). O centro dessa população $({\bar x},{\bar y})$ será definido como 
+\begin{equation}
+ {\bar x} = {1 \over N}\sum_{i=1}^{nx} x_i = \frac{M_{10}}{M_{00}}~~~~~~~~~~~
+{\bar y} = {1 \over N}\sum_{i=1}^{ny} y_j = \frac{M_{01}}{M_{00}},
+\end{equation}
+
+e seu raio médio definido como
+\begin{equation}
+{\bar R} = {1 \over N} \sum_{i=1}^N R_i ,  
+\end{equation}
+onde
+\begin{equation}
+ R_i = \left( (x_i-{\bar x})^2 + (y_i-{\bar y})^2 \right)^{1/2} ,
+\end{equation}
+e a sua variância será
+\[ \sigma_R = {1 \over N-1} \sum_{i=1}^N \left(R_i-{\bar R}  \right)^{1/2}. \] 
+
+%Como visto na seção prévia \ref{moments}, é possível representar o raio médio em termos do momento central, através de:
+%\[ {\bar x} =  \mu_{10}~~~~~~~~~~~
+%{\bar y} = \mu_{01},\]
+%\[ {\bar R} = \frac{(\mu_{20} + \mu_{02})^{1/2}}{\mu_{00}}~~~~~~~~~~~  
+%\]
+
+De forma a obter uma melhor medida, ponderamos este raio pelo raio equivalente $R_E$, definido como 
+\begin{equation}
+ R_E = \left({N_T \over \pi}\right)^{1/2}.  
+\end{equation}
+onde $N_T$ é o número de píxeis do objeto total (i.e., contendo todas as populações).
+
+Dessa forma, o raio e a variância normalizados são dados por
+\begin{equation}
+\frac{\bar R}{R_{E}}~~~~~~~~~~~
+\frac{\sigma_{R}}{R_{E}}
+\end{equation}
+
+
+\subsection{Concentração, Clumpiness e Simetria}
+
+\textbf{Concentração}: O índice de concentração C é bastante similar a definição de concentração de luz dado por \citet{bershady} e \citet{conselice2014}:
+\begin{equation}
+C = 5\times\log{\frac{r_{80}}{r_{20}}} 
+\end{equation}
+\noindent
+onde $r_{80}$ e $r_{20}$ são os raios nos quais estão contidos, respectivamente, $80\%$ e $20\%$ dos píxeis de uma dada população. Este parâmetro diz quão concentrada é uma certa população.
+
+\textbf{Clumpiness}: Este parâmetro mede quão aglutinada é a população, calculando o número médio de píxeis aglomerados nesta população. Note que a definição aqui usada difere daquela proposta por \citet{conselice2003,conselice2014}. Aqui, utilizamos a seguinte definição:
+
+\begin{equation}
+CL = \frac{\sum_{i}^{} iN_{pix}(i)}{\sum_{}^{} N_{pix}(i)}
+\end{equation}
+onde Npix(i) é o número de objetos (píxeis conectados) com \textit{i} píxeis em uma certa população. Com este parâmetro é possível medir quão homogênea é a distribuição das populações estelares.
+
+\textbf{Simetria}: Este parâmetro é utilizado para medir a simetria de uma população estelar. Em relação aseu eixo maior, se $N_1$ e $N_2$ são os números de píxes em cada lado do eixo maior (veja o exemplo na figura \ref{figsym}), a simetria é dada por
+
+\begin{equation}
+S = 1 - \frac{|N_1 - N_2|}{N_1 + N_2}
+\end{equation}
+onde $S=1$ se a população estelar tiver uma distribuição espacial simétrica.
+
+\begin{figure}[!ht]
+\begin{center}
+%\setcaptionmargin{1cm}
+\includegraphics[width=0.35 \columnwidth,angle=0]{fig/m81_elipse.png}
+\caption[Resumo da legenda da figura (aparece na lista de figuras)]{O parâmetro de simetria mede o quão simétrica é a distribuição de uma população.} 
+\label{figsym}
+\end{center}
+\end{figure}
+
+\textbf{Coeficiente de Gini}:
+Este coeficiente mede a desigualdade entre os valores de uma ditribuição (por exemplo, a distribuição de renda em um país) e foi proposto, inicialmente, pelo sociólogo e estatístico Corrado Gini \citep{Gini}. Em uma distribuição perfeitamente igualitária, utilizando o exemplo acima, onde todos possuem a mesma renda, o coeficiente de Gini para esse país seria igual a zero. Já num caso extremo, onde apenas uma pessoa detem toda a renda de um dado local, o coeficiente de Gini será igual a 1, expressando uma desigualdade máxima. No caso das populações estelares, um coeficiente de Gini G=0 significaria que todos os píxeis da população possuem a mesma idade, enquanto que G=1 significaria, hipoteticamente, que todas as idades estão concentradas em um único píxel.
+
+\citet{abraham} argumenta que este coeficiente é útil no estudo da morfologia das galáxias e apresenta dois métodos para calcular este parâmetro, onde a definição clássica, dada por \citet{Gini}, é 
+
+\begin{equation}
+G = \frac{1}{2\bar{X}n(n-1)} \sum_{i=1}^{n} \sum_{j=1}^{n}|X_i - X_j| 
+\end{equation}
+e a segunda forma, proposta por \citet{glasser}, é mais computacionalmente eficiente (já que usa os dados ordenados) e dada por
+
+\begin{equation}
+G = \frac{1}{\bar{X}n(n-1)}\sum_{i=1}^{n}(2i - n - 1)X_i
+\end{equation}
+onde \textit{X} é a variável de interesse, que neste trabalho é a idade em uma certa população.
+

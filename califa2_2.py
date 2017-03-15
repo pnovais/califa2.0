@@ -4,37 +4,31 @@
 Programa para trabalhar os dados do CALIFA
 Uma nova abordagem, sem separacao de populacoes estelares
 Retomando minha pesquisa... Que o Universo me ajude!
-
 Versão 2.0
 07-dezembro-2016
 ------------------
-
 Versão 2.1
 22-fevereiro-2017
 Adição dos perfis radiais circulares
-
-
 ------------------
 Versão 2.2
 24-fevereiro-2017
-
 -Adição de uma função para o cálculo da excentricidade da elipse e
 ângulo de inclinação, utilizadas pra cálculo dos perfis radiais elípticos
-
 -Normalização dos raios médios e Semi-eixo maior pelo equivalent_radius
 -Adição dos std nas medidas
-
 -------------------
 Versão 2.2.1
 06-março-2017
-
 -Cálculo de momentos, parâmetros da elipse e centróides através de módulos a parte
 -Cálculo dos perfis radiais elipticos
-
 -------------------
 Versão 2.2.2
 -Foco nas análises de Halpha
 
+-------------------
+Versão 2.2.3
+Melhorando os tamanhos dos labels dos eixos x e y, além do título
 '''
 
 #!/usr/bin/python
@@ -168,9 +162,9 @@ def plots(df,param1,param2,param3,diretorio):
     incr = param3*(df.ix[:,0].mean())
     plt.xlim([(df.ix[:,0].min()-(incr)),(df.ix[:,0].max()+(incr))])
     plt.scatter(df.ix[:,0], df.ix[:,12])
-    plt.title(gal+' '+tipo)
-    plt.ylabel('Concentraction')
-    plt.xlabel(param2)
+    plt.title(gal+' '+tipo, fontsize=30)
+    plt.ylabel('Concentraction', fontsize=30)
+    plt.xlabel(param2, fontsize=30)
     plt.savefig('figures/%s/gal_%s_concentration_%s' %(diretorio,param1,param2))
     plt.close()
 #    plt.figure()
@@ -367,11 +361,11 @@ for i_gal in range(len(halpha)):
     plt.clf()
     cx = cubehelix.cmap(reverse=True, start=0., rot=-0.5)
     plt.axis([0,77,0,72])
-    plt.xlabel('X',fontweight='bold')
-    plt.ylabel('Y',fontweight='bold')
+    plt.xlabel('X',fontweight='bold', fontsize=30)
+    plt.ylabel('Y',fontweight='bold', fontsize=30)
     imgplot = plt.imshow(100*np.log10(img/255), cmap=cx)
-    titulo='Halpha Maps - Galaxy %s %s' %(halpha['num_gal'][i_gal],tipo)
-    plt.title(titulo)
+    titulo='Halpha Maps %s %s' %(halpha['num_gal'][i_gal],tipo)
+    plt.title(titulo, fontsize=30)
     #plt.colorbar()
     figura = 'figures/Ha_analysis/gal_%s' %halpha['num_gal'][i_gal]
     plt.savefig(figura)
@@ -383,10 +377,10 @@ for i_gal in range(len(halpha)):
              (a_test.halpha_m.max()+(a_test.err_halpha.max() + 1e-17))])
     plt.errorbar(a_test.a_m/Re, a_test.halpha_m, yerr=a_test.err_halpha, fmt='o')
     plt.plot(a_test.a_m/Re, a_test.halpha_m, color='#7e2601',linewidth=1)
-    plt.ylabel('Mean Halpha')
-    plt.xlabel(('Semi-eixo a/Re'))
+    plt.ylabel('Mean Halpha', fontsize=30)
+    plt.xlabel('Semi-eixo a/Re', fontsize=30)
     titulo2='%s %s' %(halpha['num_gal'][i_gal],tipo)
-    plt.title(titulo2)
+    plt.title(titulo2, fontsize=30)
     plt.savefig('figures/Ha_analysis/gal_%s_perfis_elip' %(gal))
 
 

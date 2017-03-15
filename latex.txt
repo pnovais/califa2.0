@@ -1,0 +1,5520 @@
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0001.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0001_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0001_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0002.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0002_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0002_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0003.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0003_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0003_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0005.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0005_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0005_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0007.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0007_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0007_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0008.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0008_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0008_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0009.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0009_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0009_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0010.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0010_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0010_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0012.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0012_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0012_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0013.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0013_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0013_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0014.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0014_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0014_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0017.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0017_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0017_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0018.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0018_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0018_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0019.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0019_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0019_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0020.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0020_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0020_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0023.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0023_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0023_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0025.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0025_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0025_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0026.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0026_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0026_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0027.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0027_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0027_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0028.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0028_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0028_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0029.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0029_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0029_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0030.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0030_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0030_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0031.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0031_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0031_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0033.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0033_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0033_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0035.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0035_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0035_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0036.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0036_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0036_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0037.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0037_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0037_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0038.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0038_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0038_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0039.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0039_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0039_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0040.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0040_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0040_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0041.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0041_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0041_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0042.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0042_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0042_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0043.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0043_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0043_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0044.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0044_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0044_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0045.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0045_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0045_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0046.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0046_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0046_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0047.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0047_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0047_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0049.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0049_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0049_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0050.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0050_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0050_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0051.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0051_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0051_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0052.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0052_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0052_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0053.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0053_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0053_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0059.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0059_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0059_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0061.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0061_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0061_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0068.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0068_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0068_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0069.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0069_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0069_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0070.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0070_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0070_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0071.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0071_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0071_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0072.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0072_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0072_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0073.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0073_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0073_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0076.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0076_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0076_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0077.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0077_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0077_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0078.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0078_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0078_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0081.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0081_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0081_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0087.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0087_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0087_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0088.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0088_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0088_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0100.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0100_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0100_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0101.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0101_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0101_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0103.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0103_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0103_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0108.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0108_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0108_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0115.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0115_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0115_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0119.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0119_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0119_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0127.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0127_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0127_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0131.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0131_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0131_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0134.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0134_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0134_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0135.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0135_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0135_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0141.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0141_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0141_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0143.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0143_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0143_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0144.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0144_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0144_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0147.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0147_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0147_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0149.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0149_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0149_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0150.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0150_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0150_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0151.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0151_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0151_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0152.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0152_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0152_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0153.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0153_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0153_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0156.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0156_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0156_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0157.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0157_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0157_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0159.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0159_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0159_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0161.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0161_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0161_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0165.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0165_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0165_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0171.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0171_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0171_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0186.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0186_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0186_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0219.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0219_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0219_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0231.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0231_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0231_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0232.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0232_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0232_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0272.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0272_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0272_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0273.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0273_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0273_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0274.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0274_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0274_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0275.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0275_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0275_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0277.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0277_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0277_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0278.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0278_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0278_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0279.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0279_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0279_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0306.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0306_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0306_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0307.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0307_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0307_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0311.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0311_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0311_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0312.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0312_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0312_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0314.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0314_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0314_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0318.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0318_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0318_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0326.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0326_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0326_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0339.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0339_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0339_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0341.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0341_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0341_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0353.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0353_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0353_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0364.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0364_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0364_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0381.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0381_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0381_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0386.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0386_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0386_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0387.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0387_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0387_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0388.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0388_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0388_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0414.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0414_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0414_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0436.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0436_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0436_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0437.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0437_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0437_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0475.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0475_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0475_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0476.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0476_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0476_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0479.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0479_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0479_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0486.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0486_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0486_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0500.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0500_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0500_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0502.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0502_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0502_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0515.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0515_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0515_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0518.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0518_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0518_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0528.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0528_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0528_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0548.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0548_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0548_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0569.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0569_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0569_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0580.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0580_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0580_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0588.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0588_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0588_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0589.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0589_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0589_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0592.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0592_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0592_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0602.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0602_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0602_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0603.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0603_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0603_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0606.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0606_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0606_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0607.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0607_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0607_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0608.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0608_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0608_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0609.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0609_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0609_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0610.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0610_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0610_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0611.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0611_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0611_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0612.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0612_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0612_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0630.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0630_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0630_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0633.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0633_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0633_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0634.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0634_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0634_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0652.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0652_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0652_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0657.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0657_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0657_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0663.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0663_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0663_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0664.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0664_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0664_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0665.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0665_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0665_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0676.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0676_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0676_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0684.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0684_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0684_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0708.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0708_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0708_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0714.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0714_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0714_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0715.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0715_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0715_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0740.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0740_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0740_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0744.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0744_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0744_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0748.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0748_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0748_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0749.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0749_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0749_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0754.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0754_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0754_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0758.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0758_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0758_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0764.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0764_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0764_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0768.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0768_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0768_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0769.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0769_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0769_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0774.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0774_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0774_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0775.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0775_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0775_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0778.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0778_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0778_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0779.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0779_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0779_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0780.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0780_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0780_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0783.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0783_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0783_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0789.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0789_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0789_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0791.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0791_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0791_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0797.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0797_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0797_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0798.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0798_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0798_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0804.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0804_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0804_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0806.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0806_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0806_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0807.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0807_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0807_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0809.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0809_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0809_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0810.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0810_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0810_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0813.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0813_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0813_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0814.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0814_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0814_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0815.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0815_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0815_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0816.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0816_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0816_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0818.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0818_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0818_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0820.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0820_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0820_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0821.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0821_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0821_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0822.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0822_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0822_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0823.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0823_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0823_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0824.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0824_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0824_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0826.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0826_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0826_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0827.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0827_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0827_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0828.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0828_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0828_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0829.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0829_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0829_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0831.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0831_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0831_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0832.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0832_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0832_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0833.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0833_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0833_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0834.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0834_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0834_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0835.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0835_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0835_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0836.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0836_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0836_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0837.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0837_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0837_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0838.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0838_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0838_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0840.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0840_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0840_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0841.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0841_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0841_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0842.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0842_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0842_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0843.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0843_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0843_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0844.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0844_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0844_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0845.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0845_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0845_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0846.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0846_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0846_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0847.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0847_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0847_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0848.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0848_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0848_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0849.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0849_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0849_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0850.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0850_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0850_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0851.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0851_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0851_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0852.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0852_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0852_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0854.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0854_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0854_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0855.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0855_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0855_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0856.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0856_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0856_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0857.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0857_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0857_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0858.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0858_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0858_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0859.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0859_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0859_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0860.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0860_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0860_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0861.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0861_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0861_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0862.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0862_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0862_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0863.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0863_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0863_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0864.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0864_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0864_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0865.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0865_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0865_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0866.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0866_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0866_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0867.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0867_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0867_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0868.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0868_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0868_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0869.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0869_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0869_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0870.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0870_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0870_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0871.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0871_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0871_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0872.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0872_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0872_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0874.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0874_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0874_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0875.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0875_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0875_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0876.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0876_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0876_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0878.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0878_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0878_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0880.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0880_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0880_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0881.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0881_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0881_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0883.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0883_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0883_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0884.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0884_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0884_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0885.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0885_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0885_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0886.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0886_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0886_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0887.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0887_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0887_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0888.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0888_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0888_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0889.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0889_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0889_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0890.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0890_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0890_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0891.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0891_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0891_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0893.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0893_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0893_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0894.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0894_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0894_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0895.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0895_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0895_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0896.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0896_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0896_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0897.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0897_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0897_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0898.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0898_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0898_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0900.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0900_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0900_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0901.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0901_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0901_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0902.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0902_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0902_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0903.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0903_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0903_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0904.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0904_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0904_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0905.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0905_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0905_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0906.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0906_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0906_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0907.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0907_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0907_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0909.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0909_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0909_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0910.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0910_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0910_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0911.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0911_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0911_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0912.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0912_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0912_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0914.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0914_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0914_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0915.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0915_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0915_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0916.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0916_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0916_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0917.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0917_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0917_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0919.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0919_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0919_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0923.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0923_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0923_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0924.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0924_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0924_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0925.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0925_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0925_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0926.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0926_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0926_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0927.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0927_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0927_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0929.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0929_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0929_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0930.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0930_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0930_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0932.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0932_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0932_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0933.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0933_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0933_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0934.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0934_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0934_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0935.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0935_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0935_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0936.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0936_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0936_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0937.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0937_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0937_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0001.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0001_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0001_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0002.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0002_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0002_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0003.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0003_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0003_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0005.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0005_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0005_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0007.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0007_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0007_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0008.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0008_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0008_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0009.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0009_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0009_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0010.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0010_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0010_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0012.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0012_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0012_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0013.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0013_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0013_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0014.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0014_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0014_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0017.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0017_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0017_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0018.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0018_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0018_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0019.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0019_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0019_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0020.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0020_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0020_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0023.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0023_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0023_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0025.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0025_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0025_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0026.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0026_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0026_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0027.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0027_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0027_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0028.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0028_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0028_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0029.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0029_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0029_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0030.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0030_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0030_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0031.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0031_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0031_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0033.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0033_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0033_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0035.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0035_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0035_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0036.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0036_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0036_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0037.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0037_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0037_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0038.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0038_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0038_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0039.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0039_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0039_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0040.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0040_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0040_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0041.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0041_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0041_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0042.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0042_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0042_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0043.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0043_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0043_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0044.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0044_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0044_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0045.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0045_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0045_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0046.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0046_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0046_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0047.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0047_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0047_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0049.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0049_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0049_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0050.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0050_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0050_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0051.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0051_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0051_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0052.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0052_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0052_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0053.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0053_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0053_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0059.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0059_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0059_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0061.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0061_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0061_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0068.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0068_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0068_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0069.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0069_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0069_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0070.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0070_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0070_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0071.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0071_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0071_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0072.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0072_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0072_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0073.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0073_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0073_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0076.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0076_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0076_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0077.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0077_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0077_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0078.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0078_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0078_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0081.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0081_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0081_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0087.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0087_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0087_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0088.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0088_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0088_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0100.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0100_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0100_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0101.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0101_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0101_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0103.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0103_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0103_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0108.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0108_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0108_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0115.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0115_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0115_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0119.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0119_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0119_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0127.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0127_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0127_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0131.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0131_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0131_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0134.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0134_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0134_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0135.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0135_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0135_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0141.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0141_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0141_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0143.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0143_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0143_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0144.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0144_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0144_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0147.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0147_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0147_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0149.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0149_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0149_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0150.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0150_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0150_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0151.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0151_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0151_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0152.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0152_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0152_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0153.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0153_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0153_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0156.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0156_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0156_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0157.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0157_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0157_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0159.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0159_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0159_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0161.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0161_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0161_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0165.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0165_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0165_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0171.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0171_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0171_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0186.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0186_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0186_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0219.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0219_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0219_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0231.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0231_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0231_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0232.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0232_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0232_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0272.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0272_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0272_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0273.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0273_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0273_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0274.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0274_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0274_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0275.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0275_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0275_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0277.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0277_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0277_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0278.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0278_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0278_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0279.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0279_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0279_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0306.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0306_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0306_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0307.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0307_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0307_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0311.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0311_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0311_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0312.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0312_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0312_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0314.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0314_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0314_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0318.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0318_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0318_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0326.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0326_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0326_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0339.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0339_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0339_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0341.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0341_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0341_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0353.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0353_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0353_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0364.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0364_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0364_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0381.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0381_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0381_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0386.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0386_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0386_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0387.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0387_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0387_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0388.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0388_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0388_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0414.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0414_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0414_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0436.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0436_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0436_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0437.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0437_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0437_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0475.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0475_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0475_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0476.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0476_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0476_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0479.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0479_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0479_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0486.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0486_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0486_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0500.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0500_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0500_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0502.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0502_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0502_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0515.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0515_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0515_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0518.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0518_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0518_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0528.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0528_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0528_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0548.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0548_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0548_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0569.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0569_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0569_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0580.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0580_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0580_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0588.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0588_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0588_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0589.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0589_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0589_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0592.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0592_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0592_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0602.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0602_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0602_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0603.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0603_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0603_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0606.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0606_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0606_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0607.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0607_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0607_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0608.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0608_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0608_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0609.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0609_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0609_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0610.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0610_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0610_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0611.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0611_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0611_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0612.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0612_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0612_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0630.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0630_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0630_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0633.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0633_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0633_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0634.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0634_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0634_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0652.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0652_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0652_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0657.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0657_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0657_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0663.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0663_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0663_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0664.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0664_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0664_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0665.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0665_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0665_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0676.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0676_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0676_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0684.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0684_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0684_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0708.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0708_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0708_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0714.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0714_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0714_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0715.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0715_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0715_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0740.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0740_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0740_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0744.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0744_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0744_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0748.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0748_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0748_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0749.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0749_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0749_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0754.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0754_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0754_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0758.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0758_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0758_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0764.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0764_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0764_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0768.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0768_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0768_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0769.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0769_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0769_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0774.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0774_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0774_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0775.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0775_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0775_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0778.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0778_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0778_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0779.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0779_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0779_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0780.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0780_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0780_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0783.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0783_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0783_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0789.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0789_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0789_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0791.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0791_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0791_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0797.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0797_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0797_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0798.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0798_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0798_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0804.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0804_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0804_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0806.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0806_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0806_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0807.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0807_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0807_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0809.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0809_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0809_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0810.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0810_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0810_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0813.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0813_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0813_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0814.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0814_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0814_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0815.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0815_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0815_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0816.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0816_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0816_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0818.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0818_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0818_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0820.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0820_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0820_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0821.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0821_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0821_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0822.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0822_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0822_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0823.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0823_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0823_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0824.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0824_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0824_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0826.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0826_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0826_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0827.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0827_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0827_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0828.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0828_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0828_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0829.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0829_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0829_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0831.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0831_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0831_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0832.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0832_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0832_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0833.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0833_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0833_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0834.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0834_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0834_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0835.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0835_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0835_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0836.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0836_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0836_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0837.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0837_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0837_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0838.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0838_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0838_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0840.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0840_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0840_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0841.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0841_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0841_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0842.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0842_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0842_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0843.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0843_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0843_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0844.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0844_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0844_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0845.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0845_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0845_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0846.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0846_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0846_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0847.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0847_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0847_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0848.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0848_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0848_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0849.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0849_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0849_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0850.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0850_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0850_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0851.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0851_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0851_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0852.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0852_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0852_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0854.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0854_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0854_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0855.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0855_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0855_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0856.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0856_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0856_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0857.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0857_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0857_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0858.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0858_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0858_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0859.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0859_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0859_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0860.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0860_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0860_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0861.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0861_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0861_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0862.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0862_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0862_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0863.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0863_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0863_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0864.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0864_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0864_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0865.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0865_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0865_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0866.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0866_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0866_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0867.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0867_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0867_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0868.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0868_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0868_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0869.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0869_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0869_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0870.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0870_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0870_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0871.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0871_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0871_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0872.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0872_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0872_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0874.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0874_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0874_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0875.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0875_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0875_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0876.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0876_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0876_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0878.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0878_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0878_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0880.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0880_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0880_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0881.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0881_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0881_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0883.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0883_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0883_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0884.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0884_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0884_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0885.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0885_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0885_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0886.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0886_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0886_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0887.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0887_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0887_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0888.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0888_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0888_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0889.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0889_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0889_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0890.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0890_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0890_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0891.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0891_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0891_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0893.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0893_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0893_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0894.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0894_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0894_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0895.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0895_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0895_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0896.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0896_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0896_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0897.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0897_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0897_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0898.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0898_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0898_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0900.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0900_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0900_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0901.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0901_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0901_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0902.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0902_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0902_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0903.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0903_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0903_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0904.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0904_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0904_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0905.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0905_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0905_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0906.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0906_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0906_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0907.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0907_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0907_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0909.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0909_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0909_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0910.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0910_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0910_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0911.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0911_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0911_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0912.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0912_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0912_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0914.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0914_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0914_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0915.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0915_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0915_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0916.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0916_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0916_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0917.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0917_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0917_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0919.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0919_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0919_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0923.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0923_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0923_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0924.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0924_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0924_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0925.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0925_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0925_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0926.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0926_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0926_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0927.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0927_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0927_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0929.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0929_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0929_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0930.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0930_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0930_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0932.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0932_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0932_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0933.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0933_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0933_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0934.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0934_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0934_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0935.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0935_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0935_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0936.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0936_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0936_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[!ht]
+\begin{center}
+\setcaptionmargin{1cm}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/galK0937.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0937_concentration_Halpha.png}
+\includegraphics[width=0.3 \columnwidth,angle=0]{fig/gal_K0937_perfis_elip.png}
+\end{center}
+\end{figure}
+
+
