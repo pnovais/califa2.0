@@ -111,3 +111,6 @@ As galáxias do tipo E e S0 podem ser separadas em 3 tipos de de perfil de Halph
 
 *Perfis tipo E, F e G*
 ![perfilefg](https://github.com/pnovais/califa2.0/blob/master/efg.png)
+
+*Perfis tipo H, I e J*
+![perfilhij](https://github.com/pnovais/califa2.0/blob/master/hij.png)
