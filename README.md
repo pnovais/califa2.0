@@ -96,3 +96,6 @@ Apesar de não ser muito claro, a densidade de massa tende a aumentar com a idad
 **[H-alpha](https://github.com/pnovais/califa2.0/wiki/H-alpha-Analysis)**
 
 As galáxias espirais parecem ter dois comportamentos, enquanto que as tardias aumenta Halpha com a idade.
+
+***
+**H-alpha - Análises**
