@@ -98,7 +98,12 @@ Apesar de não ser muito claro, a densidade de massa tende a aumentar com a idad
 As galáxias espirais parecem ter dois comportamentos, enquanto que as tardias aumenta Halpha com a idade.
 
 ***
-### [H-alpha - Análises](https://github.com/pnovais/califa2.0/wiki/H-alpha-Analysis
+### H-alpha - Análises
+*[H-alpha - Análises]*(https://github.com/pnovais/califa2.0/wiki/H-alpha-Analysis
+
 Focando na análises apenas da emissão em Halpha, iremos tentar encontrar padrões nos perfis radiais e nas concentrações C(Halpha)
 
 As galáxias do tipo E e S0 podem ser separadas em 3 tipos de de perfil de Halpha.
+
+*Perfil tipo A*
+![perfilA](https://github.com/pnovais/califa2.0/blob/master/perfis_A.png)
