@@ -100,3 +100,5 @@ As galáxias espirais parecem ter dois comportamentos, enquanto que as tardias a
 ***
 ### [H-alpha - Análises](https://github.com/pnovais/califa2.0/wiki/H-alpha-Analysis
 Focando na análises apenas da emissão em Halpha, iremos tentar encontrar padrões nos perfis radiais e nas concentrações C(Halpha)
+
+As galáxias do tipo E e S0 podem ser separadas em 3 tipos de de perfil de Halpha.
