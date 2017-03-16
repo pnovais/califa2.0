@@ -105,5 +105,9 @@ Focando na análises apenas da emissão em Halpha, iremos tentar encontrar padr�
 
 As galáxias do tipo E e S0 podem ser separadas em 3 tipos de de perfil de Halpha.
 
-*Perfil tipo A*
-![perfilA](https://github.com/pnovais/califa2.0/blob/master/perfis_A.png)
+*Perfis tipo A, B e D*
+![perfilabd](https://github.com/pnovais/califa2.0/blob/master/abd.png)
+
+
+*Perfis tipo E, F e G*
+![perfilefg](https://github.com/pnovais/califa2.0/blob/master/efg.png)
